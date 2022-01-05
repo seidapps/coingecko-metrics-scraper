@@ -1,0 +1,862 @@
+coin_id,coin_name,symbol,base,target,market_name,market_identifier,market_has_trading_incentive,price,volume,pp_total_volume,is_stale
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,UOSMO,Osmosis,osmosis,False,4.753753194,40575886,0.02494815091208399,False
+cosmos,Cosmos,atom,ATOM,USDT,Binance,binance,False,39.11,289245902,0.17784332334228897,False
+cosmos,Cosmos,atom,ATOM,USD,Coinbase Exchange,gdax,False,39.32,129192690,0.07943434006242239,False
+cosmos,Cosmos,atom,ATOM,USDT,Digifinex,digifinex,False,39.503,115859690,0.07123652286353693,False
+cosmos,Cosmos,atom,ATOM,USDT,OKEx,okex,False,39.35,247310739,0.15205941870871323,False
+cosmos,Cosmos,atom,ATOM,USDT,TokoCrypto,toko_crypto,False,39.44,379815,0.00023352988370169367,False
+cosmos,Cosmos,atom,ATOM,USDT,Gate.io,gate,False,39.5085,37232968,0.022892752226502066,False
+cosmos,Cosmos,atom,ATOM,USDT,Nominex,nominex,False,38.79,695364,0.0004275457105441979,False
+cosmos,Cosmos,atom,ATOM,USDT,Huobi Global,huobi,False,39.4789,36516758,0.022452389318228325,False
+cosmos,Cosmos,atom,ATOM,USD,eToroX,etorox,False,39.08,637043,0.0003916869468108896,False
+cosmos,Cosmos,atom,ATOM,TRY,BtcTurk PRO,btcturk,False,530.0,25142649,0.015458999504818147,False
+cosmos,Cosmos,atom,ATOM,BTC,MEXC Global,mxc,False,0.00085093,715082,0.00043966935559989605,False
+cosmos,Cosmos,atom,ATOM,BTC,Digifinex,digifinex,False,0.00085773,8909039,0.005477737428916323,False
+cosmos,Cosmos,atom,ATOM,USD,Kraken,kraken,False,39.5022,19815347,0.012183499020361767,False
+cosmos,Cosmos,atom,ATOM,USDT,KuCoin,kucoin,False,39.501,53280098,0.032759356764621834,False
+cosmos,Cosmos,atom,ATOM,USDT,XT.COM,xt,False,39.0276,4424883,0.0027206466632007723,False
+cosmos,Cosmos,atom,ATOM,BTC,Binance,binance,False,0.000852,34288410,0.021082285848678935,False
+cosmos,Cosmos,atom,ATOM,USDT,Crypto.com Exchange,crypto_com,False,39.516,21499560,0.013219040181239775,False
+cosmos,Cosmos,atom,ATOM,EUR,Kraken,kraken,False,34.8998,10283874,0.006323057012553141,False
+cosmos,Cosmos,atom,ATOM,USDT,MEXC Global,mxc,False,38.81061,1701090,0.0010459180123642143,False
+cosmos,Cosmos,atom,ATOM,USD,Binance US,binance_us,False,39.009,12936400,0.007953967030050394,False
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED,Osmosis,osmosis,False,2.556727564,5294433,0.0032552909252041365,False
+cosmos,Cosmos,atom,ATOM,BUSD,Binance,binance,False,38.57,31649213,0.019459571188973925,False
+cosmos,Cosmos,atom,ATO,USD,Bitfinex,bitfinex,False,39.304,4769244,0.002932377596106,False
+cosmos,Cosmos,atom,ATOM,USDT,Phemex,phemex,False,39.03,6724012,0.004134269948182122,False
+cosmos,Cosmos,atom,ATOM,BTC,OKEx,okex,False,0.00085665,30341693,0.01865564034491132,False
+cosmos,Cosmos,atom,ATOM,BTC,Nominex,nominex,False,0.0008557,58832,3.617295293218552e-05,False
+cosmos,Cosmos,atom,ATOM,BTC,Coinbase Exchange,gdax,False,0.000856,7292030,0.004483516759078134,False
+cosmos,Cosmos,atom,ATOM,KRW,Upbit,upbit,False,48310.0,66274472,0.040748969204879096,False
+cosmos,Cosmos,atom,ATOM,BUSD,Nominex,nominex,False,38.79,178965,0.00011003692754807895,False
+cosmos,Cosmos,atom,ATOM,USD,BTSE,btse,False,38.759,3918756,0.0024094536364685816,False
+cosmos,Cosmos,atom,IBC/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,Osmosis,osmosis,False,0.06754170552227844,1763823,0.0010844895016267721,False
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1,Osmosis,osmosis,False,72.613543997,1542979,0.0009487032013589658,False
+cosmos,Cosmos,atom,ATOM,BTC,Crypto.com Exchange,crypto_com,False,0.0008581,7185120,0.004417782967978393,False
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/EA3E1640F9B1532AB129A571203A0B9F789A7F14BB66E350DCBFA18E1A1931F0,Osmosis,osmosis,False,7.749590225,1153807,0.0007094201506633494,False
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293,Osmosis,osmosis,False,6.820456368,1166589,0.0007172791845969093,False
+cosmos,Cosmos,atom,ATOM,USDT,BtcTurk PRO,btcturk,False,38.551,5310976,0.0032654624162354994,False
+cosmos,Cosmos,atom,ATOM,USDT,AEX,aex,False,39.257,3319293,0.0020408728150858864,False
+cosmos,Cosmos,atom,ATOM,USDT,Hotbit,hotbit,False,39.369998,692379,0.00042571037833549215,False
+cosmos,Cosmos,atom,ATOM,USDT,Binance US,binance_us,False,39.012,3217426,0.001978239720913617,False
+cosmos,Cosmos,atom,ATOM,USDT,BKEX,bkex,False,39.15,4674040,0.002873841258552359,False
+cosmos,Cosmos,atom,ATOM,USDT,HitBTC,hitbtc,False,37.83172,122412568,0.07526557078752989,False
+cosmos,Cosmos,atom,ATOM,USDT,AAX,aax,False,38.949,33004322,0.020292762208741755,False
+cosmos,Cosmos,atom,ATOM,USDT,LBank,lbank,False,38.8888,29016,1.784053580160958e-05,False
+cosmos,Cosmos,atom,ATOM,USDT,Bitrue,bitrue,False,39.49,1288115,0.0007919996475768654,False
+cosmos,Cosmos,atom,IBC/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,Osmosis,osmosis,False,0.16795923298179666,1718302,0.0010565008391569255,False
+cosmos,Cosmos,atom,IBC/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,Osmosis,osmosis,False,0.04592605116198969,569605,0.00035022258048234857,False
+cosmos,Cosmos,atom,ATOM,BTC,Huobi Global,huobi,False,0.00085906,5548093,0.0034112541975861426,False
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84,Osmosis,osmosis,False,3365.548442644,533038,0.00032773929978695786,False
+cosmos,Cosmos,atom,ATOM,ETH,Kraken,kraken,False,0.010513,1165402,0.0007165493556750555,False
+cosmos,Cosmos,atom,ATOM,USD,Bittrex,bittrex,False,39.03044228,848486,0.00052169302661168,False
+cosmos,Cosmos,atom,ATOM,USDT,Biconomy,biconomy,False,38.95,29059743,0.017867431257825802,False
+cosmos,Cosmos,atom,ATOM,BTC,KuCoin,kucoin,False,0.00085931,2125987,0.0013071666386564845,False
+cosmos,Cosmos,atom,ATOM,USDT,Bittrex,bittrex,False,39.58573297,882058,0.000542334826581753,False
+cosmos,Cosmos,atom,ATOM,BTC,Bittrex,bittrex,False,0.00085779,566656,0.00034840938293344634,False
+cosmos,Cosmos,atom,ATOM,USDT,LATOKEN,latoken,False,39.49,2497243,0.0015354340069898993,False
+cosmos,Cosmos,atom,ATOM,USDT,Bibox,bibox,False,39.2472,9396339,0.005777354643422952,False
+cosmos,Cosmos,atom,ATOM,USDC,XT.COM,xt,False,39.05,575307,0.00035372846465455624,False
+cosmos,Cosmos,atom,ATOM,USDC,Binance,binance,False,38.95,2452177,0.0015077251020259024,False
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F,Osmosis,osmosis,False,36.292617635,2054781,0.0012633855112685118,False
+cosmos,Cosmos,atom,ATOM,BTC,BigONE,bigone,False,0.0008503,18537378,0.011397737657739517,False
+cosmos,Cosmos,atom,ATOM,CRO,Crypto.com Exchange,crypto_com,False,73.94,1157426,0.000711645298825261,False
+cosmos,Cosmos,atom,ATOM,KRW,Bithumb,bithumb,False,48050.0,5595817,0.0034405973782656303,False
+cosmos,Cosmos,atom,ATOM,BNB,Binance,binance,False,0.07711,2537202,0.0015600028645201074,False
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0,Osmosis,osmosis,False,429.734096875,259229,0.00015938738128327303,False
+cosmos,Cosmos,atom,ATOM,ETH,KuCoin,kucoin,False,0.01053,1524835,0.000937547332818009,False
+cosmos,Cosmos,atom,ATOM,TRY,Paribu,paribu,False,537.0,4897621,0.0030113104078168915,False
+cosmos,Cosmos,atom,ATOM,USDC,Crypto.com Exchange,crypto_com,False,39.369,128564,7.904778897153757e-05,False
+cosmos,Cosmos,atom,ATOM,USDT,Bybit (spot),bybit_spot,False,39.1505,1722460,0.001059057392364228,False
+cosmos,Cosmos,atom,IBC/0EF15DF2F02480ADE0BB6E85D9EBB5DAEA2836D3860E9F97F9AADE4F57A31AA0,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,Osmosis,osmosis,False,2.115407173,326552,0.00020078103967077516,False
+cosmos,Cosmos,atom,ATOM,ETH,Huobi Global,huobi,False,0.010498,1054340,0.0006482627004779793,False
+cosmos,Cosmos,atom,ATOM,USDT,BigONE,bigone,False,38.805,14390332,0.008847919535533775,False
+cosmos,Cosmos,atom,ATOM,IDR,Indodax,indodax,False,565116.0,380452,0.00023392154420988313,False
+cosmos,Cosmos,atom,ATOM,BTC,LATOKEN,latoken,False,0.0008577,489398,0.00030090717329184333,False
+cosmos,Cosmos,atom,ATOM,USD,CEX.IO,cex,False,39.4885,618994,0.0003805894891777475,False
+cosmos,Cosmos,atom,ATOM,KRW,Coinone,coinone,False,48230.0,3310932,0.0020357320403465266,False
+cosmos,Cosmos,atom,ATOM,ETH,Digifinex,digifinex,False,0.010509,526930,0.00032398378584029975,False
+cosmos,Cosmos,atom,ATOM,ETH,Bittrex,bittrex,False,0.01050938,363562,0.00022353669965208102,False
+cosmos,Cosmos,atom,ATOM,USDT,CoinEx,coinex,False,39.0,1609209,0.0009894248268807677,False
+cosmos,Cosmos,atom,ATOM,USDT,Hoo.com,hoo,False,38.878,4354562,0.002677409679532969,False
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/4E5444C35610CC76FC94E7F7886B93121175C28262DDFDDE6F84E82BF2425452,Osmosis,osmosis,False,86.790913874,220732,0.00013571743688175098,False
+cosmos,Cosmos,atom,ATOM,USDT,Bitforex,bitforex,False,38.74790412,1583285,0.000973485412415613,False
+cosmos,Cosmos,atom,ATO,UST,Bitfinex,bitfinex,False,39.251,793923,0.0004881448754211912,False
+cosmos,Cosmos,atom,ATOM,ETH,OKEx,okex,False,0.010525,465190,0.00028602284427732154,False
+cosmos,Cosmos,atom,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/D805F1DA50D31B96E4282C1D4181EDDFB1A44A598BFF5666F4B43E4B8BEA95A5,Osmosis,osmosis,False,268.53725702,39577,2.4333984195626634e-05,False
+cosmos,Cosmos,atom,ATOM,GBP,Kraken,kraken,False,29.1584,233292,0.0001434399737465227,False
+cosmos,Cosmos,atom,ATOM,UST,KuCoin,kucoin,False,39.5287,699307,0.0004299700706443408,False
+cosmos,Cosmos,atom,ATOM,USDT,ZB,zb,False,39.526,458633,0.0002819912619347811,False
+cosmos,Cosmos,atom,ATO,BTC,Bitfinex,bitfinex,False,0.00085777,492255,0.00030266380448791444,False
+cosmos,Cosmos,atom,ATO,ETH,Bitfinex,bitfinex,False,0.010489,275832,0.00016959576341430847,False
+cosmos,Cosmos,atom,ATOM,BTC,HitBTC,hitbtc,False,0.00082892,9489224,0.005834465139974251,False
+cosmos,Cosmos,atom,ATOM,BTC,Hotbit,hotbit,False,0.00085103,35624,2.190347557887165e-05,False
+cosmos,Cosmos,atom,ATOM,ETH,Binance,binance,False,0.01051,572313,0.00035188759878089965,False
+cosmos,Cosmos,atom,ATOM,USDT,Poloniex,poloniex,False,38.73307945,176314,0.0001084069557942167,False
+cosmos,Cosmos,atom,ATOM,USDT,Zipmex,zipmex,False,39.37,7475.09,4.596071504178859e-06,False
+cosmos,Cosmos,atom,ATOM,BTC,Poloniex,poloniex,False,0.00085176,264719,0.00016276291690330464,False
+cosmos,Cosmos,atom,ATOM,IDR,Zipmex,zipmex,False,574451.0,18300.37,1.1252012895219945e-05,False
+cosmos,Cosmos,atom,ATOM,USDT,ProBit Global,probit,False,39.181,1194400,0.0007343788241467634,False
+cosmos,Cosmos,atom,ATOM,THB,Zipmex,zipmex,False,1338.4,245068,0.0001506804669089074,False
+cosmos,Cosmos,atom,ATOM,BTC,WazirX,wazirx,False,0.0008579,2425.49,1.4913165557432458e-06,False
+kava,Kava,kava,KAVA,USDT,Binance,binance,False,4.727,35734970,0.399817101004603,False
+kava,Kava,kava,KAVA,USDT,Crypto.com Exchange,crypto_com,False,4.7402,115445,0.0012916447173588334,False
+kava,Kava,kava,KAVA,USDT,TokoCrypto,toko_crypto,False,4.751,54445,0.0006091523811044366,False
+kava,Kava,kava,KAVA,USDT,Nominex,nominex,False,4.732,83761,0.0009371514848689267,False
+kava,Kava,kava,KAVA,USDT,AAX,aax,False,4.6626,17015857,0.1903801966770612,False
+kava,Kava,kava,KAVA,USD,Kraken,kraken,False,4.7395,3102361,0.034710452570402076,False
+kava,Kava,kava,KAVA,EUR,Kraken,kraken,False,4.2026,1718760,0.019230172587878805,False
+kava,Kava,kava,KAVA,USDT,Gate.io,gate,False,4.7311,496253,0.005552276546610708,False
+kava,Kava,kava,KAVA,KRW,Upbit,upbit,False,5795.0,12882283,0.14413212165508688,False
+kava,Kava,kava,KAVA,BTC,Binance,binance,False,0.0001031,3033083,0.033935342667598276,False
+kava,Kava,kava,KAVA,USDT,Huobi Global,huobi,False,4.7391,1017862,0.011388246137124145,False
+kava,Kava,kava,KAVA,USDT,MEXC Global,mxc,False,4.6598,543294,0.0060785900218523975,False
+kava,Kava,kava,KAVA,BTC,Huobi Global,huobi,False,0.00010284,299217,0.003347759170115276,False
+kava,Kava,kava,KAVA,USDT,Bitrue,bitrue,False,4.736,189146,0.0021162409087405595,False
+kava,Kava,kava,KAVA,USDT,BKEX,bkex,False,4.709,1261473,0.01411386319494824,False
+kava,Kava,kava,KAVA,USDT,XT.COM,xt,False,4.6591,650601,0.007279183548515522,False
+kava,Kava,kava,KAVA,BUSD,Binance,binance,False,4.718,2236230,0.025019833395117538,False
+kava,Kava,kava,KAVA,ETH,Kraken,kraken,False,0.001269,102426,0.0011459829513638172,False
+kava,Kava,kava,KAVA,BUSD,Nominex,nominex,False,4.733,6027.57,6.743885788912974e-05,False
+kava,Kava,kava,KAVA,USDT,CoinTiger,cointiger,False,4.652,86081,0.0009631085704445038,False
+kava,Kava,kava,KAVA,USDT,ZB,zb,False,4.7274,1437304,0.016081130571603108,False
+kava,Kava,kava,KAVA,BTC,Hotbit,hotbit,False,0.00010271,58386,0.0006532458613860527,False
+kava,Kava,kava,KAVA,BNB,Binance,binance,False,0.0093,571682,0.006396206291386657,False
+kava,Kava,kava,KAVA,USDT,Hotbit,hotbit,False,4.686201,65566,0.0007335785658828816,False
+kava,Kava,kava,KAVA,USDT,KuCoin,kucoin,False,4.7358,560468,0.006270739585505398,False
+kava,Kava,kava,KAVA,BTC,Bitrue,bitrue,False,0.0001037,13466.4,0.00015066745568747883,False
+kava,Kava,kava,KAVA,USDT,Hoo.com,hoo,False,4.6541,1502118,0.016806295461471835,False
+kava,Kava,kava,KAVA,USD,CEX.IO,cex,False,4.7303,172612,0.001931251920418753,False
+kava,Kava,kava,KAVA,USDT,CoinEx,coinex,False,4.6803,90407,0.001011509584323791,False
+kava,Kava,kava,KAVA,USDT,WazirX,wazirx,False,4.728,28244,0.0003160051400847407,False
+kava,Kava,kava,KAVA,QC,ZB,zb,False,32.2227,949456,0.010622892518209092,False
+kava,Kava,kava,KAVA,BTC,Upbit,upbit,False,0.00010118,62757,0.0007021503532183144,False
+kava,Kava,kava,KAVA,USDT,Zipmex,zipmex,False,4.70886,8339.04,9.330050642162075e-05,False
+kava,Kava,kava,KAVA,IDR,Zipmex,zipmex,False,68441.6,10008.07,0.00011197427992946788,False
+kava,Kava,kava,KAVA,KRW,Coinone,coinone,False,5700.0,26297,0.00029422132731937495,False
+kava,Kava,kava,KAVA,ETH,Huobi Global,huobi,False,0.001262,110294,0.0012340132743416793,False
+kava,Kava,kava,KAVA,BTC,TokoCrypto,toko_crypto,False,0.0001018,1012.38,1.132691133405289e-05,False
+kava,Kava,kava,KAVA,BTC,Nominex,nominex,False,0.0001022,2048.58,2.2920330331213643e-05,False
+kava,Kava,kava,KAVA,BNB,Nominex,nominex,False,0.00924,45.33,5.071701246297017e-07,False
+kava,Kava,kava,KAVA,USDT,BiONE,bione,False,4.6961,508773,0.005692355301527184,False
+kava,Kava,kava,KAVA,USDT,CEX.IO,cex,False,4.684,102.22,1.1436781411790892e-06,False
+kava,Kava,kava,KAVA,USDT,DragonEx,dragonex,False,4.631,708847,0.007930863034047875,False
+kava,Kava,kava,KAVA,USDT,Dcoin,dcoin,False,4.69805,1884009,0.021079044326791967,False
+kava,Kava,kava,KAVA,USDT,AscendEX (BitMax),bitmax,False,4.7418,170439,0.0019069395294895597,False
+kava,Kava,kava,KAVA,BTC,AscendEX (BitMax),bitmax,False,0.00010281,269678,0.0030172650533838233,False
+kava,Kava,kava,KAVA,BTC,CoinEx,coinex,False,0.000101366,6808.88,7.618046587665307e-05,False
+kava,Kava,kava,KAVA,XBT,Kraken,kraken,False,0.00010292,469361,0.005251398121913114,False
+kava,Kava,kava,KAVA,USDX,Kava Swap,kava,False,4.7701826753093695,321387,0.003595805974947407,False
+kava,Kava,kava,KAVA,BTC,Upbit Indonesia ,upbit_indonesia,False,0.00010118,67265,0.0007525876557074099,False
+kava,Kava,kava,KAVA,BTC,HitBTC,hitbtc,False,9.2201e-05,397725,0.004449905974373442,False
+iris-network,IRISnet,iris,IBC/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0,UOSMO,Osmosis,osmosis,False,0.011061518731523242,193846,0.043268452752039756,False
+iris-network,IRISnet,iris,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0,Osmosis,osmosis,False,429.734096875,259229,0.05786262155762055,False
+iris-network,IRISnet,iris,IRIS,USDT,Binance,binance,False,0.09046,2031810,0.45352122296112324,False
+iris-network,IRISnet,iris,IRIS,USDT,Gate.io,gate,False,0.08969,19980.7,0.004459901024022579,False
+iris-network,IRISnet,iris,IRIS,BTC,Binance,binance,False,1.97e-06,579550,0.1293616158829413,False
+iris-network,IRISnet,iris,IRIS,USDT,BKEX,bkex,False,0.09048,196908,0.04395192314774947,False
+iris-network,IRISnet,iris,IRIS,USDT,Huobi Global,huobi,False,0.091167,202640,0.04523136544304931,False
+iris-network,IRISnet,iris,IRIS,ETH,Bibox,bibox,False,2.439e-05,15908.58,0.003550961289281412,False
+iris-network,IRISnet,iris,IRIS,USDT,MEXC Global,mxc,False,0.09039,323239,0.07215032241633347,False
+iris-network,IRISnet,iris,IRIS,USDT,Bibox,bibox,False,0.091776,127422,0.028441921868753595,False
+iris-network,IRISnet,iris,IRIS,BTC,MEXC Global,mxc,False,1.974e-06,76621,0.01710260783464213,False
+iris-network,IRISnet,iris,IRIS,BTC,Huobi Global,huobi,False,1.9721e-06,3126.9,0.0006979567538682929,False
+iris-network,IRISnet,iris,IRIS,USDT,Hotbit,hotbit,False,0.090261,66204,0.014777424584443526,False
+iris-network,IRISnet,iris,IRIS,USDT,CoinEx,coinex,False,0.090374,16928.89,0.0037787051427910726,False
+iris-network,IRISnet,iris,IRIS,ETH,Huobi Global,huobi,False,2.421e-05,2514.27,0.0005612113363230141,False
+iris-network,IRISnet,iris,IRIS,BTC,Bittrex,bittrex,False,1.98e-06,387.37,8.646503173940984e-05,False
+iris-network,IRISnet,iris,IRIS,USDT,BitGlobal,bithumb_global,False,0.090054,57966,0.012938616903236262,False
+iris-network,IRISnet,iris,IRIS,USDT,Nominex,nominex,False,0.09206,5365.11,0.0011975486135617757,False
+iris-network,IRISnet,iris,IRIS,BTC,Nominex,nominex,False,1.99e-06,193.1,4.3101937756873374e-05,False
+iris-network,IRISnet,iris,IRIS,ETH,BitGlobal,bithumb_global,False,2.42e-05,17231.03,0.0038461459479379482,False
+iris-network,IRISnet,iris,IRIS-D88,BNB,Binance DEX,binance_dex,False,0.00016201,26.21,5.8503458757516894e-06,False
+iris-network,IRISnet,iris,IRIS,USDT,Nami.Exchange,nami_exchange,False,0.09038,389284,0.08689225653934073,False
+iris-network,IRISnet,iris,IRIS,VNDC,Nami.Exchange,nami_exchange,False,2151.0,348680,0.07782901945658523,False
+iris-network,IRISnet,iris,IRIS,BTC,CoinEx,coinex,False,1.9756e-06,9931.97,0.002216919485982049,False
+iris-network,IRISnet,iris,IRIS,ROWAN,Sifchain,sifchain,False,0.5419495344625145,313.19,6.990728061147163e-05,False
+iris-network,IRISnet,iris,IRIS,USDT,BigONE,bigone,False,0.08961,180.91,4.038100238009302e-05,True
+iris-network,IRISnet,iris,IRIS,USDT,Bittrex,bittrex,False,0.07891,114.48,2.5553132234111157e-05,True
+starname,Starname,iov,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC,Osmosis,osmosis,False,601.23755185,22695,0.7297193016301726,False
+starname,Starname,iov,IBC/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC,UOSMO,Osmosis,osmosis,False,0.007927064623849024,8301.43,0.2669184270602232,False
+starname,Starname,iov,IOV,USDT,Hotbit,hotbit,False,0.06757,13122.29,0.42192501848815156,False
+starname,Starname,iov,IOV,USDT,Bilaxy,bilaxy,False,0.03854,3059.38,0.09836918427060223,False
+band-protocol,Band Protocol,band,BAND,USDT,Coinsbit,coinsbit,False,6.746,801679,0.00701988269895177,False
+band-protocol,Band Protocol,band,BAND,BTC,Coinsbit,coinsbit,False,0.0001475,116940,0.0010239822707285833,False
+band-protocol,Band Protocol,band,BAND,USDT,Binance,binance,False,6.801,25921868,0.2269842077660903,False
+band-protocol,Band Protocol,band,BAND,USDT,TokoCrypto,toko_crypto,False,6.824,53111,0.0004650651819793551,False
+band-protocol,Band Protocol,band,BAND,USDT,Nominex,nominex,False,6.811,47645,0.0004172022856923495,False
+band-protocol,Band Protocol,band,BAND,USD,Coinbase Exchange,gdax,False,6.81,10215896,0.08945524528482171,False
+band-protocol,Band Protocol,band,BAND,BTC,Decoin,decoin,False,0.0001493,1852379,0.01622031173824134,False
+band-protocol,Band Protocol,band,BAND,USDT,AAX,aax,False,6.772,121112,0.0010605142874335572,False
+band-protocol,Band Protocol,band,BAND,USDT,Gate.io,gate,False,6.74,830399,0.0072713686816379755,False
+band-protocol,Band Protocol,band,BAND,USDT,OKEx,okex,False,6.7533,17522816,0.15343811285479006,False
+band-protocol,Band Protocol,band,BAND,USDT,Crypto.com Exchange,crypto_com,False,6.7621,1219291,0.010676692037445912,False
+band-protocol,Band Protocol,band,BAND,USDT,Digifinex,digifinex,False,6.7853,11601750,0.10159044218766325,False
+band-protocol,Band Protocol,band,BAND,BTC,Binance,binance,False,0.0001471,3532077,0.030928546492630427,False
+band-protocol,Band Protocol,band,BAND,USD,Currency.com,currency,False,6.809950000000001,1395702,0.012221430675734779,False
+band-protocol,Band Protocol,band,BAND,USDT,P2PB2B,p2pb2b,False,6.807,8471120,0.07417715660350878,False
+band-protocol,Band Protocol,band,BAND,USDT,WhiteBIT,whitebit,False,6.7543,3573063,0.031287439406501485,False
+band-protocol,Band Protocol,band,BAND,BUSD,Binance,binance,False,6.665,3314982,0.029027559396138023,False
+band-protocol,Band Protocol,band,BAND,BTC,Coinbase Exchange,gdax,False,0.00014812,953412,0.008348529029415769,False
+band-protocol,Band Protocol,band,BAND,EUR,Kraken,kraken,False,5.951,265244,0.002322602645947771,False
+band-protocol,Band Protocol,band,BAND,EUR,Bitvavo,bitvavo,False,6.0388,1412344,0.012367155944671542,False
+band-protocol,Band Protocol,band,BAND,EUR,Coinbase Exchange,gdax,False,5.99,1318328,0.01154390712335447,False
+band-protocol,Band Protocol,band,BAND,USD,Binance US,binance_us,False,6.7852,1976132,0.017303951878052136,False
+band-protocol,Band Protocol,band,BAND,USDT,AEX,aex,False,6.841,328923,0.0028802062633389585,False
+band-protocol,Band Protocol,band,BAND,USD,Kraken,kraken,False,6.842,176862,0.0015486878088387095,False
+band-protocol,Band Protocol,band,BAND,USD,FTX,ftx_spot,False,6.794,1563555,0.01369123139480956,False
+band-protocol,Band Protocol,band,BAND,USDT,XT.COM,xt,False,6.8111,650824,0.005698924554170168,False
+band-protocol,Band Protocol,band,BAND,USDT,Bitrue,bitrue,False,6.761,71823,0.0006289163556570808,False
+band-protocol,Band Protocol,band,BAND,USD,P2PB2B,p2pb2b,False,6.796,813600,0.00712426864601313,False
+band-protocol,Band Protocol,band,BAND,BUSD,Nominex,nominex,False,6.739,11619.28,0.00010174394320703962,False
+band-protocol,Band Protocol,band,BAND,USDT,Huobi Global,huobi,False,6.7648,1195641,0.010469601386661484,False
+band-protocol,Band Protocol,band,BAND,GBP,Coinbase Exchange,gdax,False,5.0,387267,0.003391094082762496,False
+band-protocol,Band Protocol,band,BAND,USDT,Hoo.com,hoo,False,6.8053,376647,0.003298100310613209,False
+band-protocol,Band Protocol,band,BAND,USD,Bitfinex,bitfinex,False,6.805,356799,0.003124301780517255,False
+band-protocol,Band Protocol,band,BAND,USDT,Decoin,decoin,False,6.8117,956067,0.008371777472453091,False
+band-protocol,Band Protocol,band,BAND,UST,Bitfinex,bitfinex,False,6.8105,213483,0.0018693587061907827,False
+band-protocol,Band Protocol,band,BAND,USDT,Binance US,binance_us,False,6.7751,580074,0.005079403896960939,False
+band-protocol,Band Protocol,band,BAND,USDT,KuCoin,kucoin,False,6.7515,517004,0.004527132973283397,False
+band-protocol,Band Protocol,band,BAND,TRY,Paribu,paribu,False,92.97,1422468,0.012455806504863574,False
+band-protocol,Band Protocol,band,BAND,BTC,HitBTC,hitbtc,False,0.000148,12685.83,0.00011108316238649549,False
+band-protocol,Band Protocol,band,BAND,THB,Bitkub,bitkub,False,232.0,2662716,0.023316008003979222,False
+band-protocol,Band Protocol,band,BAND,USDT,CoinTiger,cointiger,False,6.8239,64460,0.0005644424249287197,False
+band-protocol,Band Protocol,band,BAND,EUR,CoinMetro,coin_metro,False,6.005774343211582,5971.03,5.228517922001447e-05,False
+band-protocol,Band Protocol,band,BAND,BTC,Huobi Global,huobi,False,0.00014776,268890,0.002354528756423882,False
+band-protocol,Band Protocol,band,BAND,USDT,Hotbit,hotbit,False,6.777001,72467,0.0006345555260209359,False
+band-protocol,Band Protocol,band,BAND,USDT,LATOKEN,latoken,False,6.805,242999,0.002127814843550325,False
+band-protocol,Band Protocol,band,BAND,BTC,KuCoin,kucoin,False,0.00014675,67859,0.0005942056859019235,False
+band-protocol,Band Protocol,band,BAND,USDT,Bittrex,bittrex,False,6.768,26371,0.0002309170212192874,False
+band-protocol,Band Protocol,band,BAND,ETH,Bittrex,bittrex,False,0.00182317,10725.15,9.3914515571273e-05,False
+band-protocol,Band Protocol,band,BAND,BTC,P2PB2B,p2pb2b,False,0.0001486,711472,0.006229987293653212,False
+band-protocol,Band Protocol,band,BAND,USDT,CoinEx,coinex,False,6.7359,128121,0.0011218884257569422,False
+band-protocol,Band Protocol,band,BAND,USDT,WazirX,wazirx,False,6.85,23486,0.00020565458876630328,False
+band-protocol,Band Protocol,band,BAND,BTC,Bittrex,bittrex,False,0.00014964,21576,0.00018892972014058416,False
+band-protocol,Band Protocol,band,BAND,AUD,Zipmex,zipmex,False,9.42278,1358.99,1.1899962939092161e-05,False
+band-protocol,Band Protocol,band,BAND,USD,Zipmex,zipmex,False,6.8359,1252.56,1.0968011228183635e-05,False
+band-protocol,Band Protocol,band,BAND,BTC,LATOKEN,latoken,False,0.00014804,81128,0.0007103953622342099,False
+band-protocol,Band Protocol,band,BAND,IDR,Zipmex,zipmex,False,98190.3,1727.38,1.5125761029683087e-05,False
+band-protocol,Band Protocol,band,BAND,USD,CEX.IO,cex,False,6.775,86414,0.0007566820928915666,False
+band-protocol,Band Protocol,band,BAND,USDT,Zipmex,zipmex,False,6.77884,1297.0,1.1357149009192514e-05,False
+band-protocol,Band Protocol,band,BAND,BTC,Hotbit,hotbit,False,0.00014823,67009,0.0005867626815396924,False
+band-protocol,Band Protocol,band,BAND,SGD,Zipmex,zipmex,False,9.27147,10110.17,8.852945813282026e-05,False
+band-protocol,Band Protocol,band,BAND,BTC,NiceHash,nice_hash,False,0.00014498,1108.78,9.709005149122956e-06,False
+band-protocol,Band Protocol,band,BAND,ETH,Huobi Global,huobi,False,0.001822,31023,0.00027165214626999177,False
+band-protocol,Band Protocol,band,BAND,USD,Bittrex,bittrex,False,6.783,13834.39,0.00012114050013977086,False
+band-protocol,Band Protocol,band,BAND,KRW,Coinone,coinone,False,8200.0,12119.97,0.0001061282230354225,False
+band-protocol,Band Protocol,band,BAND,USDT,BitGlobal,bithumb_global,False,6.82,563489,0.004934177747140231,False
+band-protocol,Band Protocol,band,BAND,USDT,CEX.IO,cex,False,6.769,1599.84,1.4008960116319621e-05,False
+band-protocol,Band Protocol,band,BAND,USDT,Poloniex,poloniex,False,6.8044719,68162,0.0005968588980451658,False
+band-protocol,Band Protocol,band,BAND,HUSD,Huobi Global,huobi,False,6.755,41494,0.00036334120353695773,False
+band-protocol,Band Protocol,band,BAND,USDT,ProBit Global,probit,False,6.82,65064,0.0005697313362637639,False
+band-protocol,Band Protocol,band,0XBA11D00C5F74255F56A5E366F4F77F5A186D7F55,ETH,Uniswap (v3),uniswap,False,0.00180228024912109,3253.47,2.8488931061632664e-05,False
+band-protocol,Band Protocol,band,BAND,CRO,Crypto.com Exchange,crypto_com,False,12.673,45894,0.0004018696967061536,False
+band-protocol,Band Protocol,band,BAND,BTC,ProBit Global,probit,False,0.000148,25168,0.00022038298092780045,False
+band-protocol,Band Protocol,band,BAND,USDT,Dove Wallet,dove_wallet,False,6.8194,40.43,3.540243133705885e-07,False
+band-protocol,Band Protocol,band,BAND,KRT,Dove Wallet,dove_wallet,False,8346.01,32.68,2.861616265384821e-07,False
+band-protocol,Band Protocol,band,BAND,USDC,Dove Wallet,dove_wallet,False,6.74374,31.42,2.751284671309397e-07,False
+band-protocol,Band Protocol,band,BAND,GBP,Dove Wallet,dove_wallet,False,5.07211,0.42917,3.758016684869044e-09,False
+band-protocol,Band Protocol,band,BAND,USDT,Currency.com,currency,False,6.811,81.77,7.160170196466243e-07,False
+band-protocol,Band Protocol,band,BAND,USDT,WOO Network,wootrade,False,6.812,28314,0.0002479308535437755,False
+band-protocol,Band Protocol,band,BAND,BTC,Nominex,nominex,False,0.0001461,4279.1,3.746983525461503e-05,False
+band-protocol,Band Protocol,band,BAND,BTC,TokoCrypto,toko_crypto,False,0.0001485,2259.96,1.9789284868785438e-05,False
+band-protocol,Band Protocol,band,0XBA11D00C5F74255F56A5E366F4F77F5A186D7F55,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Sushiswap,sushiswap,False,0.00181311912791502,161926,0.00141790108748073,False
+band-protocol,Band Protocol,band,BAND,SGD,Tokenize,tokenize,False,9.1721,474.05,4.151007315194843e-06,False
+band-protocol,Band Protocol,band,BAND,USD,Tokenize,tokenize,False,6.7644,1703.26,1.491455483531013e-05,False
+band-protocol,Band Protocol,band,BAND,BTC,FMFW.io,bitcoin_com,False,0.00014543,12439.81,0.00010892889422979423,False
+band-protocol,Band Protocol,band,BAND,USD,CoinMetro,coin_metro,False,6.796002505022001,577.9,5.060367318745068e-06,False
+band-protocol,Band Protocol,band,BAND,EUR,Bittrex,bittrex,False,6.076,3442.63,3.0145306008879278e-05,False
+band-protocol,Band Protocol,band,0XBA11D00C5F74255F56A5E366F4F77F5A186D7F55,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Uniswap (v2),uniswap_v2,False,0.00178480140422327,12727.17,0.00011144515509277154,False
+band-protocol,Band Protocol,band,BAND,USDT,Dcoin,dcoin,False,6.79283,2774282,0.024292932974187064,False
+band-protocol,Band Protocol,band,BAND,ETH,Gate.io,gate,False,0.001829,1833.94,1.6058851082435248e-05,False
+band-protocol,Band Protocol,band,BAND,USDT,DragonEx,dragonex,False,6.56,1472969,0.01289801728521302,False
+band-protocol,Band Protocol,band,BAND,THB,Zipmex,zipmex,False,230.3164,116821,0.0010229402501178708,False
+band-protocol,Band Protocol,band,BAND,USDT,Bilaxy,bilaxy,False,6.811,31603,0.0002767309021877494,False
+band-protocol,Band Protocol,band,BAND,USDT,BitMart,bitmart,False,6.796,1888829,0.016539485278245246,False
+band-protocol,Band Protocol,band,BAND,USDT,AscendEX (BitMax),bitmax,False,6.7153,73051,0.0006396693078415747,False
+band-protocol,Band Protocol,band,BAND,BTC,CoinEx,coinex,False,0.00014714,12452.67,0.00010904150250755693,False
+band-protocol,Band Protocol,band,BAND,ETH,CoinMetro,coin_metro,False,0.0018140434691232726,8.08,7.075232381979608e-08,False
+band-protocol,Band Protocol,band,0X21BE370D5312F44CB42CE377BC9B8A0CEF1A4C83,0X46E7628E8B4350B2716AB470EE0BA1FA9E76C6C5,Spookyswap,spookyswap,False,0.452176578568438,1511.29,1.3233574191289556e-05,False
+band-protocol,Band Protocol,band,BAND,THB,Satang Pro,tdax,False,230.0,4201.07,3.6786567454162215e-05,False
+band-protocol,Band Protocol,band,BAND,USDP,Dove Wallet,dove_wallet,False,6.7594,0.267382,2.3413239910377123e-09,False
+band-protocol,Band Protocol,band,BAND,FTM,OpenOcean,openocean_finance,False,2.32104302,6060.73,5.307063509212285e-05,False
+akash-network,Akash Network,akt,IBC/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4,UOSMO,Osmosis,osmosis,False,0.31885461069125065,1206783,0.24321098648757314,False
+akash-network,Akash Network,akt,IBC/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,Osmosis,osmosis,False,0.06754170552227844,1763823,0.3554749543368366,False
+akash-network,Akash Network,akt,AKT,USDT,Gate.io,gate,False,2.61,901792,0.18174412626512104,False
+akash-network,Akash Network,akt,AKT,BTC,Bittrex,bittrex,False,5.7e-05,69596,0.014026143735525892,False
+akash-network,Akash Network,akt,AKT,USDT,Bittrex,bittrex,False,2.628,57358,0.011559738381261769,False
+akash-network,Akash Network,akt,AKT,ETH,Gate.io,gate,False,0.000696,45225,0.009114494373802495,False
+akash-network,Akash Network,akt,AKT,USDT,Digifinex,digifinex,False,2.62875,5141.31,0.001036162323249851,False
+akash-network,Akash Network,akt,AKT,USDT,AscendEX (BitMax),bitmax,False,2.59901,752564,0.15166921711279824,False
+akash-network,Akash Network,akt,AKT,ROWAN,Sifchain,sifchain,False,15.699196723560082,137016,0.02761374375060083,False
+akash-network,Akash Network,akt,AKT,USDT,BitMart,bitmart,False,2.2445,53438,0.010769714767214101,False
+akash-network,Akash Network,akt,AKT,USDT,BitGlobal,bithumb_global,False,2.4,241.59,4.8689235948412265e-05,False
+sentinel,Sentinel,dvpn,IBC/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84,UOSMO,Osmosis,osmosis,False,0.0014150406078164445,683290,0.4188596894520355,False
+sentinel,Sentinel,dvpn,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84,Osmosis,osmosis,False,3365.548442644,533038,0.3267545714793632,False
+sentinel,Sentinel,dvpn,DVPN,USDT,KuCoin,kucoin,False,0.01138,367667,0.22538144190865012,False
+sentinel,Sentinel,dvpn,DVPN,USDT,MEXC Global,mxc,False,0.01175,10777.31,0.0066065370775634305,False
+sentinel,Sentinel,dvpn,DVPN,BTC,Hotbit,hotbit,False,3.021e-07,27375,0.016780991963513986,False
+sentinel,Sentinel,dvpn,DVPN,ETH,Hotbit,hotbit,False,3.5892e-06,25860,0.01585229049046472,False
+sentinel,Sentinel,dvpn,DVPN,USDT,Hotbit,hotbit,False,0.013275,25169,0.015428704538070631,False
+sentinel,Sentinel,dvpn,DVPN,ROWAN,Sifchain,sifchain,False,0.06875846767449736,18634.39,0.011422960688035996,False
+sentinel,Sentinel,dvpn,DVPN,USDT,AscendEX (BitMax),bitmax,False,0.016504,316315,0.19390244650005212,False
+persistence,Persistence,xprt,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293,Osmosis,osmosis,False,6.820456368,1166589,0.3341700553766194,False
+persistence,Persistence,xprt,IBC/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293,UOSMO,Osmosis,osmosis,False,0.696907690202675,373076,0.10686782369770989,False
+persistence,Persistence,xprt,XPRT,USDT,Gate.io,gate,False,5.665,1415619,0.40550483471230625,False
+persistence,Persistence,xprt,XPRT,USDT,KuCoin,kucoin,False,5.621,446728,0.12796547927186563,False
+persistence,Persistence,xprt,XPRT,ETH,Gate.io,gate,False,0.001513,67705,0.019394134180310305,False
+persistence,Persistence,xprt,IBC/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293,IBC/BE1BB42D4BE3C30D50B68D7C41DB4DFCE9678E8EF8C539F6E6A9345048894FCC,Osmosis,osmosis,False,5.670527963,2526.79,0.0007238003737606717,False
+persistence,Persistence,xprt,XPRT,USDT,AscendEX (BitMax),bitmax,False,5.84,134033,0.03839382595952339,False
+persistence,Persistence,xprt,XPRT,USDT,Huobi Global,huobi,False,5.7071,313644,0.08984349487998294,False
+persistence,Persistence,xprt,XPRT,ROWAN,Sifchain,sifchain,False,33.90771717123849,19344.6,0.00554127122168866,False
+fetch-ai,Fetch.ai,fet,FET,USDT,Binance,binance,False,0.6003,28603449,0.3911654984399712,False
+fetch-ai,Fetch.ai,fet,FET,USDT,Nominex,nominex,False,0.6348,36710,0.0005020263621960884,False
+fetch-ai,Fetch.ai,fet,FET,USD,Coinbase Exchange,gdax,False,0.6163,8510271,0.1163819229483211,False
+fetch-ai,Fetch.ai,fet,FET,BTC,Binance,binance,False,1.318e-05,5622627,0.07689204518647524,False
+fetch-ai,Fetch.ai,fet,FET,USDT,Crypto.com Exchange,crypto_com,False,0.61761,237200,0.003243820569678893,False
+fetch-ai,Fetch.ai,fet,FET,EUR,Bitvavo,bitvavo,False,0.53316,1825034,0.024958190681127104,False
+fetch-ai,Fetch.ai,fet,FET,USDT,Gate.io,gate,False,0.6179,558463,0.007637241849935007,False
+fetch-ai,Fetch.ai,fet,FET,USD,Gemini,gemini,False,0.61153,275212,0.0037636523887962375,False
+fetch-ai,Fetch.ai,fet,FET,BUSD,Binance,binance,False,0.6,3306648,0.0452199527786154,False
+fetch-ai,Fetch.ai,fet,FET,TRY,BtcTurk PRO,btcturk,False,8.209,4118837,0.05632701595174749,False
+fetch-ai,Fetch.ai,fet,FET,USD,Bitfinex,bitfinex,False,0.6162,82898,0.001133668792517879,False
+fetch-ai,Fetch.ai,fet,FET,USDT,MEXC Global,mxc,False,0.61764,322213,0.004406412973094204,False
+fetch-ai,Fetch.ai,fet,FET,USDT,Coinbase Exchange,gdax,False,0.6152,365036,0.004992037459836865,False
+fetch-ai,Fetch.ai,fet,FET,BNB,Binance,binance,False,0.001212,326510,0.004465176451120807,False
+fetch-ai,Fetch.ai,fet,FET,BTC,KuCoin,kucoin,False,1.341e-05,520277,0.007115030499708371,False
+fetch-ai,Fetch.ai,fet,FET,EUR,Bitstamp,bitstamp,False,0.52897,13514.89,0.00018482242065323597,False
+fetch-ai,Fetch.ai,fet,FET,USDT,ZB,zb,False,0.6161,2352592,0.03217279224983983,False
+fetch-ai,Fetch.ai,fet,FET,USDT,LATOKEN,latoken,False,0.61533077,286994,0.003924776730920844,False
+fetch-ai,Fetch.ai,fet,FET,UST,Bitfinex,bitfinex,False,0.61573,34632,0.0004736087435460347,False
+fetch-ai,Fetch.ai,fet,FET,ETH,KuCoin,kucoin,False,0.0001651,126005,0.001723177111645822,False
+fetch-ai,Fetch.ai,fet,FET,USDT,Hoo.com,hoo,False,0.6058,322350,0.004408286511956118,False
+fetch-ai,Fetch.ai,fet,FET,USDT,BtcTurk PRO,btcturk,False,0.5983,903280,0.012352775059778881,False
+fetch-ai,Fetch.ai,fet,FET,QC,ZB,zb,False,4.2006,1870072,0.025574106325381735,False
+fetch-ai,Fetch.ai,fet,FET,BTC,HitBTC,hitbtc,False,1.3153e-05,2231093,0.030511236788644987,False
+fetch-ai,Fetch.ai,fet,FET,USDT,Hotbit,hotbit,False,0.613998,31849,0.00043554992126350366,False
+fetch-ai,Fetch.ai,fet,FET,ETH,Gate.io,gate,False,0.0001626,9029.69,0.00012348521989807675,False
+fetch-ai,Fetch.ai,fet,FET,USDT,CoinEx,coinex,False,0.5999,41393,0.0005660685701547994,False
+fetch-ai,Fetch.ai,fet,FET,BTC,Hotbit,hotbit,False,1.33299e-05,25415,0.00034756197208427096,False
+fetch-ai,Fetch.ai,fet,0X031B41E504677879370E9DBCF937283A8691FA7F,0X5801D0E1C7D977D78E4890880B8E579EB4943276,PancakeSwap (v2),pancakeswap_new,False,0.60209386921981,2588.06,3.539292691215496e-05,False
+fetch-ai,Fetch.ai,fet,0X031B41E504677879370E9DBCF937283A8691FA7F,WBNB,PancakeSwap (v2),pancakeswap_new,False,0.00121520556136095,7075.75,9.676417957801614e-05,False
+fetch-ai,Fetch.ai,fet,FET,BTC,Nominex,nominex,False,1.317e-05,4391.97,6.0062237046427526e-05,False
+fetch-ai,Fetch.ai,fet,0X2E1E15C44FFE4DF6A0CB7371CD00D5028E571D14,0XAEA46A60368A7BD060EEC7DF8CBA43B7EF41AD85,Uniswap (v2),uniswap_v2,False,1.85311838200815,42838,0.0005858296187348416,False
+fetch-ai,Fetch.ai,fet,0XAEA46A60368A7BD060EEC7DF8CBA43B7EF41AD85,ETH,1inch Liquidity Protocol,one_inch_liquidity_protocol,False,0.000155274704960267,10573.25,0.00014459412242140537,False
+fetch-ai,Fetch.ai,fet,FET,BTC,WazirX,wazirx,False,1.375e-05,245.01,3.3506259602741383e-06,False
+fetch-ai,Fetch.ai,fet,FET,BTC,Omgfin,omgfin,False,1.312e-05,1582102,0.02163598233950302,False
+fetch-ai,Fetch.ai,fet,0XAEA46A60368A7BD060EEC7DF8CBA43B7EF41AD85,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Uniswap (v2),uniswap_v2,False,0.00015752628071608,21034,0.00028764975490145803,False
+fetch-ai,Fetch.ai,fet,FET,USDT,Omgfin,omgfin,False,0.59991,656173,0.008973471646997928,False
+fetch-ai,Fetch.ai,fet,FET,USDT,AscendEX (BitMax),bitmax,False,0.61633,1134322,0.01551238210893466,False
+fetch-ai,Fetch.ai,fet,FET,USDT,Nami.Exchange,nami_exchange,False,0.6026,3294196,0.0450496658741734,False
+fetch-ai,Fetch.ai,fet,FET,VNDC,Nami.Exchange,nami_exchange,False,14367.0,3372235,0.04611688557669099,False
+fetch-ai,Fetch.ai,fet,FET,USDT,BitMart,bitmart,False,0.5945,424337,0.005803006277722734,False
+fetch-ai,Fetch.ai,fet,FET,KRW,Coinone,coinone,False,689.0,529.15,7.236372910816131e-06,False
+fetch-ai,Fetch.ai,fet,FET,BUSD,Nominex,nominex,False,0.6004,6316.92,8.638682560293421e-05,False
+fetch-ai,Fetch.ai,fet,FET,BNB,Nominex,nominex,False,0.001192,1288.86,1.7625761296105977e-05,False
+fetch-ai,Fetch.ai,fet,FET,USDT,WazirX,wazirx,False,0.6,20523,0.0002806615917011801,False
+fetch-ai,Fetch.ai,fet,FET,USD,Bitstamp,bitstamp,False,0.6073,23063,0.0003153972757103892,False
+fetch-ai,Fetch.ai,fet,FET,INR,BitBNS,bitbns,False,48.02,3830.75,5.2387291936329764e-05,False
+fetch-ai,Fetch.ai,fet,FET,BTC,NiceHash,nice_hash,False,1.656e-05,2706.27,3.700950376519771e-05,False
+fetch-ai,Fetch.ai,fet,0X1D287CC25DAD7CCAF76A26BC660C5F7C8E2A05BD,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Uniswap (v2),uniswap_v2,False,3.08955389718655e-07,0.0,0.0,True
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDC,Crypto.com Exchange,crypto_com,False,0.53385,13987695,0.07638885327766197,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Crypto.com Exchange,crypto_com,False,0.5346,40498966,0.22117079130414416,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USD,Coinbase Exchange,gdax,False,0.5311,28143179,0.15369402688562894,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,Crypto.com Exchange,crypto_com,False,1.1598e-05,14447992,0.07890260268363257,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,FMFW.io,bitcoin_com,False,1.1583e-05,9721337,0.05308964670417153,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,HitBTC,hitbtc,False,1.1603e-05,9818302,0.05361918678622711,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Digifinex,digifinex,False,0.536264,2923742,0.015966983742477795,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,OKEx,okex,False,1.161e-05,1671790,0.009129890308665045,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,KuCoin,kucoin,False,0.5336,10626119,0.05803079386574958,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Gate.io,gate,False,0.53284,2100722,0.011472350850884052,False
+crypto-com-chain,Crypto.com Coin,cro,IBC/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1,UOSMO,Osmosis,osmosis,False,0.06542539376508837,1413960,0.007721842875504714,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Huobi Global,huobi,False,0.533408,5316216,0.02903263504218236,False
+crypto-com-chain,Crypto.com Coin,cro,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,IBC/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1,Osmosis,osmosis,False,72.613543997,1542979,0.00842643455133341,False
+crypto-com-chain,Crypto.com Coin,cro,MANA,CRO,Crypto.com Exchange,crypto_com,False,5.907,280878,0.0015339159404693294,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USD,FTX,ftx_spot,False,0.5303,3357663,0.01833668994518642,False
+crypto-com-chain,Crypto.com Coin,cro,ENJ,CRO,Crypto.com Exchange,crypto_com,False,4.966,309550,0.0016904979363719513,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,Bittrex,bittrex,False,1.158e-05,868238,0.0047415750194789545,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,OKEx,okex,False,0.53574,6078246,0.033194192601392565,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Coinbase Exchange,gdax,False,0.5321,667986,0.003647969486433062,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,Huobi Global,huobi,False,1.16e-05,759227,0.004146249965232975,False
+crypto-com-chain,Crypto.com Coin,cro,CELR,CRO,Crypto.com Exchange,crypto_com,False,0.16475,78698,0.0004297813167391369,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,EUR,Coinbase Exchange,gdax,False,0.4692,645038,0.0035226470937861115,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Bittrex,bittrex,False,0.53623396,106985,0.000584260771192871,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,KRW,Upbit,upbit,False,656.0,6154016,0.03360798368082691,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,MEXC Global,mxc,False,0.52926,629317,0.003436792407765425,False
+crypto-com-chain,Crypto.com Coin,cro,EGLD,CRO,Crypto.com Exchange,crypto_com,False,449.515,356763,0.0019483350517650346,False
+crypto-com-chain,Crypto.com Coin,cro,ETH,CRO,Crypto.com Exchange,crypto_com,False,6998.45,1677571,0.009161461197278084,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,KuCoin,kucoin,False,1.16e-05,149456,0.0008162011293116019,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,IDR,Indodax,indodax,False,7755.0,186174,0.0010167235109226674,False
+crypto-com-chain,Crypto.com Coin,cro,ATOM,CRO,Crypto.com Exchange,crypto_com,False,73.94,1157426,0.0063208730883645365,False
+crypto-com-chain,Crypto.com Coin,cro,BCH,CRO,Crypto.com Exchange,crypto_com,False,790.5,39649,0.00021652900235571474,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDK,OKEx,okex,False,0.5343,13108321,0.07158646292941727,False
+crypto-com-chain,Crypto.com Coin,cro,XRP,CRO,Crypto.com Exchange,crypto_com,False,1.535,134981,0.0007371510319800432,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,BKEX,bkex,False,0.5328,301978,0.0016491461341616189,False
+crypto-com-chain,Crypto.com Coin,cro,VET,CRO,Crypto.com Exchange,crypto_com,False,0.1775,131989,0.0007208112812915441,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,KRW,Bithumb,bithumb,False,650.0,307881,0.0016813832826623575,False
+crypto-com-chain,Crypto.com Coin,cro,ADA,CRO,Crypto.com Exchange,crypto_com,False,2.454,120890,0.0006601980149507518,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,CoinEx,coinex,False,0.529902,65821,0.0003594581317071175,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Bibox,bibox,False,0.5298,205377,0.0011215939094758917,False
+crypto-com-chain,Crypto.com Coin,cro,CRV,CRO,Crypto.com Exchange,crypto_com,False,11.054,88040,0.0004807993484677325,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USD,Okcoin,okcoin,False,0.53978,4556.35,2.4882895404258897e-05,False
+crypto-com-chain,Crypto.com Coin,cro,LINK,CRO,Crypto.com Exchange,crypto_com,False,50.37,256626,0.0014014722126292631,False
+crypto-com-chain,Crypto.com Coin,cro,DOT,CRO,Crypto.com Exchange,crypto_com,False,54.996,88715,0.00048448562243656165,False
+crypto-com-chain,Crypto.com Coin,cro,MKR,CRO,Crypto.com Exchange,crypto_com,False,4555.95,159100,0.0008688684273195847,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Hoo.com,hoo,False,0.5288,117660,0.0006425585113665767,False
+crypto-com-chain,Crypto.com Coin,cro,KSM,CRO,Crypto.com Exchange,crypto_com,False,548.4,53129,0.0002901452587998882,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,HUSD,Huobi Global,huobi,False,0.536045,10875.14,5.9390734058330036e-05,False
+crypto-com-chain,Crypto.com Coin,cro,BAT,CRO,Crypto.com Exchange,crypto_com,False,2.434,57337,0.00031312576377890024,False
+crypto-com-chain,Crypto.com Coin,cro,NEAR,CRO,Crypto.com Exchange,crypto_com,False,30.652,83852,0.00045792806642113023,False
+crypto-com-chain,Crypto.com Coin,cro,ICX,CRO,Crypto.com Exchange,crypto_com,False,2.246,107611,0.0005876794489772962,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USD,Bittrex,bittrex,False,0.52933,48297,0.00026375699832969195,False
+crypto-com-chain,Crypto.com Coin,cro,AAVE,CRO,Crypto.com Exchange,crypto_com,False,471.68,91461,0.0004994819310564207,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,ETH,Bittrex,bittrex,False,0.00014196,40498,0.00022116551583650876,False
+crypto-com-chain,Crypto.com Coin,cro,NEO,CRO,Crypto.com Exchange,crypto_com,False,49.879,71686,0.0003914877566362775,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Hotbit,hotbit,False,0.532786,160393,0.0008759296898998753,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,KRW,Coinone,coinone,False,654.9,11236.32,6.136319099471776e-05,False
+crypto-com-chain,Crypto.com Coin,cro,ALGO,CRO,Crypto.com Exchange,crypto_com,False,3.242,116548,0.0006364857163245944,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,EUR,Bittrex,bittrex,False,0.469,14576.07,7.960205542049139e-05,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,ProBit Global,probit,False,0.5285,516594,0.002821195577264196,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,Upbit,upbit,False,1.161e-05,15681.99,8.564164669102109e-05,False
+crypto-com-chain,Crypto.com Coin,cro,XTZ,CRO,Crypto.com Exchange,crypto_com,False,9.423,37193,0.00020311642625579708,False
+crypto-com-chain,Crypto.com Coin,cro,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Uniswap (v2),uniswap_v2,False,0.000145254474719844,43712,0.00023871764107475605,False
+crypto-com-chain,Crypto.com Coin,cro,QTUM,CRO,Crypto.com Exchange,crypto_com,False,16.964,55179,0.0003013406093718879,False
+crypto-com-chain,Crypto.com Coin,cro,UNI,CRO,Crypto.com Exchange,crypto_com,False,35.863,92361,0.0005043969630148596,False
+crypto-com-chain,Crypto.com Coin,cro,ZIL,CRO,Crypto.com Exchange,crypto_com,False,0.1333,23229,0.00012685697484730757,False
+crypto-com-chain,Crypto.com Coin,cro,GRT,CRO,Crypto.com Exchange,crypto_com,False,1.302,141180,0.0007710046798804462,False
+crypto-com-chain,Crypto.com Coin,cro,COMP,CRO,Crypto.com Exchange,crypto_com,False,425.55,43563,0.0002379039302283034,False
+crypto-com-chain,Crypto.com Coin,cro,DAI,CRO,Crypto.com Exchange,crypto_com,False,1.87,28035,0.00015310324550537121,False
+crypto-com-chain,Crypto.com Coin,cro,BNT,CRO,Crypto.com Exchange,crypto_com,False,6.562,32141,0.0001755267135290935,False
+crypto-com-chain,Crypto.com Coin,cro,BAND,CRO,Crypto.com Exchange,crypto_com,False,12.673,45894,0.0002506338630006601,False
+crypto-com-chain,Crypto.com Coin,cro,HOT,CRO,Crypto.com Exchange,crypto_com,False,0.01358,10010.96,5.4671320371837016e-05,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,HitBTC,hitbtc,False,0.532942,30806,0.0001682360827907425,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,WOO Network,wootrade,False,0.5322,113688,0.0006208668369899997,False
+crypto-com-chain,Crypto.com Coin,cro,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,DeFi Swap,defi_swap,False,0.000143528155234267,579590,0.003165225969768436,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,BiONE,bione,False,0.5301,2230721,0.012182294450400826,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,DragonEx,dragonex,False,0.5435,1143849,0.006246727100698175,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,ETH,HitBTC,hitbtc,False,0.00014466,2109.69,1.1521326413776586e-05,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,AscendEX (BitMax),bitmax,False,0.53596,280304,0.0015307812423091696,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,BitMart,bitmart,False,0.532,6216720,0.03395041941851797,False
+crypto-com-chain,Crypto.com Coin,cro,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,0XDAC17F958D2EE523A2206206994597C13D831EC7,DeFi Swap,defi_swap,False,0.532889302546532,70881,0.00038709153360678495,False
+crypto-com-chain,Crypto.com Coin,cro,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48,DeFi Swap,defi_swap,False,0.533037492528229,58829,0.0003212737945366678,False
+crypto-com-chain,Crypto.com Coin,cro,0X1F9840A85D5AF5BF1D1762F925BDADDC4201F984,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,DeFi Swap,defi_swap,False,35.5797733615548,951.28,5.1950795571374894e-06,False
+crypto-com-chain,Crypto.com Coin,cro,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,ETH,Uniswap (v3),uniswap,False,0.000144235078522503,276555,0.0015103074036289614,False
+crypto-com-chain,Crypto.com Coin,cro,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,0XD533A949740BB3306D119CC777FA900BA034CD52,DeFi Swap,defi_swap,False,0.0891217073370632,941.97,5.144236282100749e-06,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,BigONE,bigone,False,0.54054,47.93,2.6175275751997295e-07,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Poloniex,poloniex,False,0.537,9735.79,5.316857665627744e-05,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,Upbit Indonesia ,upbit_indonesia,False,1.161e-05,15595.67,8.51702405147406e-05,False
+crypto-com-chain,Crypto.com Coin,cro,0X004D9058620EB7AA4EA243DC6CEFC4B76C0CF7AD941246066142C871B376BB7E,0X0200000000000000000000000000000000000000000000000000000000000000,Polkaswap,polkaswap,False,0.005281308616047496,109.53,5.98159389342012e-07,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,INR,CoinDCX,coindcx,False,42.18,7718.14,4.2149894177450534e-05,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,ZB,zb,False,0.5541,203.15,1.1094319359520657e-06,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,CoinTiger,cointiger,False,1.107e-05,249502,0.001362567004104909,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,Vindax,vindax,False,4.712,537952,0.002937834746784571,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,USDT,BitGlobal,bithumb_global,False,0.5151,4755.01,2.5967806791884972e-05,False
+crypto-com-chain,Crypto.com Coin,cro,CRO,QC,ZB,zb,False,3.7254,421.01,2.2991973386915044e-06,True
+crypto-com-chain,Crypto.com Coin,cro,CRO,BTC,GoPax,gopax,False,1.01e-05,809.11,4.418668342102761e-06,True
+crypto-com-chain,Crypto.com Coin,cro,0X514910771AF9CA656AF840DFF83E8264ECF986CA,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,DeFi Swap,defi_swap,False,44.6495711557985,976.67,5.3337380698316705e-06,True
+crypto-com-chain,Crypto.com Coin,cro,0X0BC529C00C6401AEF6D220BE8C6EA1667F6AD93E,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,DeFi Swap,defi_swap,False,64050.9293804473,0.0,0.0,True
+crypto-com-chain,Crypto.com Coin,cro,0X6B175474E89094C44DA98B954EEDEAC495271D0F,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,DeFi Swap,defi_swap,False,1.81391457029326,8549.73,4.669132909558185e-05,True
+crypto-com-chain,Crypto.com Coin,cro,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,0XF629CBD94D3791C9250152BD8DFBDF380E2A3B9C,DeFi Swap,defi_swap,False,0.204149488823771,0.0,0.0,True
+crypto-com-chain,Crypto.com Coin,cro,0XA0246C9032BC3A600820415AE600C6388619A14D,0XA0B73E1FF0B80914AB6FE0444E65848C4C34450B,DeFi Swap,defi_swap,False,303.778585623741,0.0,0.0,True
+sifchain,Sifchain,erowan,0X831753DD7087CAC61AB5644B308642CC1C33DC13,0XA7051C5A22D963B81D71C2BA64D46A877FBC1821,Quickswap,quickswap,False,1726.08294956668,150965,0.025318444872404866,False
+sifchain,Sifchain,erowan,0X07BAC35846E5ED502AA91ADF6A9E7AA210F2DCBE,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Sushiswap,sushiswap,False,4.60815996352294e-05,127228,0.021337496136364893,False
+sifchain,Sifchain,erowan,0X07BAC35846E5ED502AA91ADF6A9E7AA210F2DCBE,USDT,Uniswap (v3),uniswap,False,0.173985871373802,103180,0.017304389374588374,False
+sifchain,Sifchain,erowan,0X07BAC35846E5ED502AA91ADF6A9E7AA210F2DCBE,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Uniswap (v2),uniswap_v2,False,4.96205087434232e-05,23994,0.00402405038431744,False
+sifchain,Sifchain,erowan,EROWAN,USDT,AEX,aex,False,0.1931,140067,0.023490733732607773,False
+sifchain,Sifchain,erowan,ROWAN,USDT,AscendEX (BitMax),bitmax,False,0.168,136477,0.022888652342272706,False
+sifchain,Sifchain,erowan,ATOM,ROWAN,Sifchain,sifchain,False,230.00045409195454,2528253,0.4240150644453497,False
+sifchain,Sifchain,erowan,USDT,ROWAN,Sifchain,sifchain,False,5.863580540634882,612053,0.10264783320299417,False
+sifchain,Sifchain,erowan,ETH,ROWAN,Sifchain,sifchain,False,22004.064772854792,584177,0.09797272990578516,False
+sifchain,Sifchain,erowan,JUNO,ROWAN,Sifchain,sifchain,False,90.55839823631327,532887,0.08937084842659697,False
+sifchain,Sifchain,erowan,ZCX,ROWAN,Sifchain,sifchain,False,21.64622381649267,262714,0.04405994718119413,False
+sifchain,Sifchain,erowan,OSMO,ROWAN,Sifchain,sifchain,False,48.599039234038315,142683,0.023929464907292045,False
+sifchain,Sifchain,erowan,AKT,ROWAN,Sifchain,sifchain,False,15.699196723560082,137016,0.022979048406169808,False
+sifchain,Sifchain,erowan,EEUR,ROWAN,Sifchain,sifchain,False,6.326484629792859,111622,0.01872020305069106,False
+sifchain,Sifchain,erowan,LUNA,ROWAN,Sifchain,sifchain,False,484.01222091597793,85050,0.01426379449804944,False
+sifchain,Sifchain,erowan,REGEN,ROWAN,Sifchain,sifchain,False,10.670078836072348,58809,0.009862898185018102,False
+sifchain,Sifchain,erowan,USDC,ROWAN,Sifchain,sifchain,False,5.846495137452269,51867,0.008698650549445389,False
+sifchain,Sifchain,erowan,METIS,ROWAN,Sifchain,sifchain,False,1334.6340352155064,30925,0.005186453202259599,False
+sifchain,Sifchain,erowan,NGM,ROWAN,Sifchain,sifchain,False,7.092728334905478,27172,0.004557034968853608,False
+sifchain,Sifchain,erowan,RNDR,ROWAN,Sifchain,sifchain,False,28.10268810006014,21298,0.003571902354138236,False
+sifchain,Sifchain,erowan,DVPN,ROWAN,Sifchain,sifchain,False,0.06875846767449736,18634.39,0.003125186473327543,False
+sifchain,Sifchain,erowan,DINO,ROWAN,Sifchain,sifchain,False,0.5113598745533351,16007.32,0.0026845987412641597,False
+sifchain,Sifchain,erowan,UFO,ROWAN,Sifchain,sifchain,False,0.00012480439128631182,4130.64,0.0006927524997698171,False
+sifchain,Sifchain,erowan,RUNE,ROWAN,Sifchain,sifchain,False,43.28731008196368,3008.65,0.0005045827785603345,False
+sifchain,Sifchain,erowan,LINK,ROWAN,Sifchain,sifchain,False,150.58569591673538,2350.03,0.0003941251614844342,False
+sifchain,Sifchain,erowan,LINA,ROWAN,Sifchain,sifchain,False,0.2924823522883905,2242.6,0.0003761080016616775,False
+sifchain,Sifchain,erowan,SAITO,ROWAN,Sifchain,sifchain,False,0.4871824396322527,1646.09,0.00027606689577065497,False
+sifchain,Sifchain,erowan,ENJ,ROWAN,Sifchain,sifchain,False,15.589674592200556,1501.16,0.000251760584934649,False
+sifchain,Sifchain,erowan,UST,ROWAN,Sifchain,sifchain,False,5.820945308210679,1150.31,0.00019291928805468845,False
+sifchain,Sifchain,erowan,FTM,ROWAN,Sifchain,sifchain,False,15.936238629702967,1003.31,0.00016826581608275114,False
+sifchain,Sifchain,erowan,MATIC,ROWAN,Sifchain,sifchain,False,13.75167031990479,835.34,0.00014009545086420482,False
+sifchain,Sifchain,erowan,DAI,ROWAN,Sifchain,sifchain,False,5.813288218842647,611.24,0.00010251148440902692,False
+sifchain,Sifchain,erowan,WSCRT,ROWAN,Sifchain,sifchain,False,40.725898493370444,500.89,8.400460936070528e-05,False
+sifchain,Sifchain,erowan,POLS,ROWAN,Sifchain,sifchain,False,18.751837616438003,491.83,8.248515047590425e-05,False
+sifchain,Sifchain,erowan,WBTC,ROWAN,Sifchain,sifchain,False,269590.3295539992,476.23,7.986886365439254e-05,False
+sifchain,Sifchain,erowan,TIDAL,ROWAN,Sifchain,sifchain,False,0.021601886772635328,372.43,6.246049364971844e-05,False
+sifchain,Sifchain,erowan,IRIS,ROWAN,Sifchain,sifchain,False,0.5419495344625145,313.19,5.252531215572139e-05,False
+sifchain,Sifchain,erowan,BAT,ROWAN,Sifchain,sifchain,False,7.580805041152885,237.61,3.984973792688451e-05,False
+sifchain,Sifchain,erowan,MANA,ROWAN,Sifchain,sifchain,False,19.33137475449423,175.49,2.9431549635069917e-05,False
+sifchain,Sifchain,erowan,BTSG,ROWAN,Sifchain,sifchain,False,1.6248217258966253,142.83,2.3954118379263984e-05,False
+sifchain,Sifchain,erowan,RATOM,ROWAN,Sifchain,sifchain,False,226.854252943887,127.63,2.1404915835226928e-05,False
+sifchain,Sifchain,erowan,ZCN,ROWAN,Sifchain,sifchain,False,2.3195253771638664,6.05,1.0146496968042225e-06,False
+sifchain,Sifchain,erowan,YFI,ROWAN,Sifchain,sifchain,False,174059.49573862157,6.07,1.0180039106779555e-06,False
+sifchain,Sifchain,erowan,TUSD,ROWAN,Sifchain,sifchain,False,8.008954491975766,2.77,4.645586215120159e-07,False
+sifchain,Sifchain,erowan,0XA7051C5A22D963B81D71C2BA64D46A877FBC1821,0XAC51C4C48DC3116487ED4BC16542E27B5694DA1B,Quickswap,quickswap,False,0.004257895733723,201636,0.033816513432201024,False
+sifchain,Sifchain,erowan,0XA7051C5A22D963B81D71C2BA64D46A877FBC1821,0XF14FBC6B30E2C4BC05A1D4FBE34BF9F14313309D,Quickswap,quickswap,False,0.067682750953144,75396,0.012644715461198539,False
+sifchain,Sifchain,erowan,0XA7051C5A22D963B81D71C2BA64D46A877FBC1821,0XB3B9C016AD1E9F7EFDAE451B04EF696E05658B32,Quickswap,quickswap,False,0.027193938790014,109935,0.018437275110441683,False
+sifchain,Sifchain,erowan,0XA7051C5A22D963B81D71C2BA64D46A877FBC1821,0XEC482DE9569A5EA3DD9779039B79E53F15791FDE,Quickswap,quickswap,False,0.0910634746075077,106625,0.017882152714338878,False
+sifchain,Sifchain,erowan,XPRT,ROWAN,Sifchain,sifchain,False,33.90771717123849,19344.6,0.0032442962850907373,False
+sifchain,Sifchain,erowan,SAND,ROWAN,Sifchain,sifchain,False,31.88621800217942,1735.22,0.00029101494989894593,False
+sifchain,Sifchain,erowan,FXS,ROWAN,Sifchain,sifchain,False,269.03689788483365,504.9,8.467712924238874e-05,False
+sifchain,Sifchain,erowan,BAND,ROWAN,Sifchain,sifchain,False,32.607307034786025,280.06,4.696905687388273e-05,False
+sifchain,Sifchain,erowan,OH,ROWAN,Sifchain,sifchain,False,0.4087967889527156,4256.79,0.0007139092037783877,True
+sifchain,Sifchain,erowan,PAID,ROWAN,Sifchain,sifchain,False,3.3516703089841795,2048.93,0.00034362747161538433,True
+sifchain,Sifchain,erowan,IOTX,ROWAN,Sifchain,sifchain,False,0.8938571604444863,1667.83,0.00027971292625140267,True
+sifchain,Sifchain,erowan,ERN,ROWAN,Sifchain,sifchain,False,60.84489247138099,980.42,0.00016442691830426375,True
+sifchain,Sifchain,erowan,OCEAN,ROWAN,Sifchain,sifchain,False,5.303997432620328,379.74,6.368645882056784e-05,True
+sifchain,Sifchain,erowan,RFUEL,ROWAN,Sifchain,sifchain,False,0.3122188991640492,313.16,5.25202808349108e-05,True
+sifchain,Sifchain,erowan,RLY,ROWAN,Sifchain,sifchain,False,2.005293148281705,214.97,3.6052767821818794e-05,True
+sifchain,Sifchain,erowan,1INCH,ROWAN,Sifchain,sifchain,False,14.797662945050597,213.46,3.579952467435195e-05,True
+sifchain,Sifchain,erowan,COMP,ROWAN,Sifchain,sifchain,False,1398.179092159065,73.6,1.2343507055337317e-05,True
+sifchain,Sifchain,erowan,SXP,ROWAN,Sifchain,sifchain,False,9.3026616581275,58.55,9.81946111535326e-06,True
+sifchain,Sifchain,erowan,SRM,ROWAN,Sifchain,sifchain,False,21.413904612494967,38.34,6.430027995946098e-06,True
+sifchain,Sifchain,erowan,SHIB,ROWAN,Sifchain,sifchain,False,0.0001898588256336798,32.84,5.507619180669532e-06,True
+sifchain,Sifchain,erowan,TOKE,ROWAN,Sifchain,sifchain,False,411.8539789043609,29.06,4.873672758534e-06,True
+sifchain,Sifchain,erowan,LRC,ROWAN,Sifchain,sifchain,False,12.843540590725176,27.53,4.617075397193429e-06,True
+sifchain,Sifchain,erowan,SUSHI,ROWAN,Sifchain,sifchain,False,47.12706827749836,24.08,4.038473503974492e-06,True
+sifchain,Sifchain,erowan,GRT,ROWAN,Sifchain,sifchain,False,3.722480890121601,19.5,3.2703585268896427e-06,True
+sifchain,Sifchain,erowan,SUSD,ROWAN,Sifchain,sifchain,False,5.969631937364197,8.5,1.4255408963365108e-06,True
+sifchain,Sifchain,erowan,CONV,ROWAN,Sifchain,sifchain,False,0.08471738046723322,6.88,1.1538495725641406e-06,True
+sifchain,Sifchain,erowan,AKRO,ROWAN,Sifchain,sifchain,False,0.14596037742005272,5.41,9.073148528447675e-07,True
+sifchain,Sifchain,erowan,TSHP,ROWAN,Sifchain,sifchain,False,0.002157284342173553,4.32,7.245101967263208e-07,True
+sifchain,Sifchain,erowan,BAL,ROWAN,Sifchain,sifchain,False,121.4539256028774,4.23,7.094162342945225e-07,True
+sifchain,Sifchain,erowan,RAIL,ROWAN,Sifchain,sifchain,False,17.01676941939576,2.99,5.014549741230786e-07,True
+sifchain,Sifchain,erowan,LEASH,ROWAN,Sifchain,sifchain,False,24895.024837341305,2.4,4.0250566484795596e-07,True
+sifchain,Sifchain,erowan,B20,ROWAN,Sifchain,sifchain,False,4.071539218371814,1.85,3.1026478332029943e-07,True
+sifchain,Sifchain,erowan,SNX,ROWAN,Sifchain,sifchain,False,37.32511345495773,1.1,1.844817630553132e-07,True
+sifchain,Sifchain,erowan,DFYN,ROWAN,Sifchain,sifchain,False,1.731520759923727,1.06,1.7777333530784725e-07,True
+sifchain,Sifchain,erowan,REEF,ROWAN,Sifchain,sifchain,False,0.11339663222105206,0.968068,1.623553558158463e-07,True
+sifchain,Sifchain,erowan,DNXC,ROWAN,Sifchain,sifchain,False,1.6471630116424298,0.292351,4.903038900998533e-08,True
+sifchain,Sifchain,erowan,OGN,ROWAN,Sifchain,sifchain,False,4.295030339372236,0.189396,3.1763734541476446e-08,True
+sifchain,Sifchain,erowan,ANT,ROWAN,Sifchain,sifchain,False,67.50002409733374,6903.18,0.0011577371064437972,True
+sifchain,Sifchain,erowan,AAVE,ROWAN,Sifchain,sifchain,False,1491.6431149943437,520.86,8.735379191362765e-05,True
+sifchain,Sifchain,erowan,COCOS,ROWAN,Sifchain,sifchain,False,14.68785244248373,102.61,1.7208794279186986e-05,True
+sifchain,Sifchain,erowan,UNI,ROWAN,Sifchain,sifchain,False,108.1736571975099,55.2,9.257630291502988e-06,True
+sifchain,Sifchain,erowan,FRAX,ROWAN,Sifchain,sifchain,False,5.467371521828047,14.37,2.4100026682771366e-06,True
+sifchain,Sifchain,erowan,QUICK,ROWAN,Sifchain,sifchain,False,1663.557530041983,5.95,9.978786274355576e-07,True
+sifchain,Sifchain,erowan,AXS,ROWAN,Sifchain,sifchain,False,696.4824633847179,5.95,9.978786274355576e-07,True
+sifchain,Sifchain,erowan,BOND,ROWAN,Sifchain,sifchain,False,114.99460452918133,4.17,6.993535926733236e-07,True
+sifchain,Sifchain,erowan,UMA,ROWAN,Sifchain,sifchain,False,57.857754406008226,1.24,2.0796126017144392e-07,True
+sifchain,Sifchain,erowan,KEEP,ROWAN,Sifchain,sifchain,False,4.152385941773435,0.603247,1.0117097283438954e-07,True
+sifchain,Sifchain,erowan,KFT,ROWAN,Sifchain,sifchain,False,0.9238672604959245,0.04034114,6.7656405735101964e-09,True
+ki,KI,xki,IBC/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E,UOSMO,Osmosis,osmosis,False,0.03159415402655397,134072,0.9654079898614591,False
+ki,KI,xki,IBC/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED,IBC/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E,Osmosis,osmosis,False,58.786449395,3444.72,0.02480428583772574,False
+ki,KI,xki,XKI,USDC,Liquid,quoine,False,0.27,501.29,0.0036096229730118957,False
+ki,KI,xki,XKI,BTC,Liquid,quoine,False,4.92e-06,515.79,0.0037140326622310546,True
+osmosis,Osmosis,osmo,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,UOSMO,Osmosis,osmosis,False,4.753753194,40575886,0.4178035256513819,False
+osmosis,Osmosis,osmo,IBC/BE1BB42D4BE3C30D50B68D7C41DB4DFCE9678E8EF8C539F6E6A9345048894FCC,UOSMO,Osmosis,osmosis,False,0.12297748879491946,29070645,0.2993358659860124,False
+osmosis,Osmosis,osmo,IBC/0EF15DF2F02480ADE0BB6E85D9EBB5DAEA2836D3860E9F97F9AADE4F57A31AA0,UOSMO,Osmosis,osmosis,False,10.053064574,8546232,0.08799920870821307,False
+osmosis,Osmosis,osmo,IBC/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED,UOSMO,Osmosis,osmosis,False,1.852796363,5127418,0.05279621787897268,False
+osmosis,Osmosis,osmo,IBC/EA3E1640F9B1532AB129A571203A0B9F789A7F14BB66E350DCBFA18E1A1931F0,UOSMO,Osmosis,osmosis,False,0.6127498447418519,2671042,0.027503299983712454,False
+osmosis,Osmosis,osmo,IBC/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4,UOSMO,Osmosis,osmosis,False,0.31885461069125065,1206783,0.012426055024310538,False
+osmosis,Osmosis,osmo,IBC/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1,UOSMO,Osmosis,osmosis,False,0.06542539376508837,1413960,0.014559324055919023,False
+osmosis,Osmosis,osmo,IBC/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A,UOSMO,Osmosis,osmosis,False,0.7983377859908589,3090780,0.031825276249365896,False
+osmosis,Osmosis,osmo,IBC/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84,UOSMO,Osmosis,osmosis,False,0.0014150406078164445,683290,0.007035729818501874,False
+osmosis,Osmosis,osmo,UION,UOSMO,Osmosis,osmosis,False,1061.008957593,1276136,0.01314017197334032,False
+osmosis,Osmosis,osmo,IBC/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293,UOSMO,Osmosis,osmosis,False,0.696907690202675,373076,0.0038415049799754206,False
+osmosis,Osmosis,osmo,IBC/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076,UOSMO,Osmosis,osmosis,False,0.2184557730578349,253393,0.002609147925331331,False
+osmosis,Osmosis,osmo,IBC/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0,UOSMO,Osmosis,osmosis,False,0.011061518731523242,193846,0.0019960018182577153,False
+osmosis,Osmosis,osmo,IBC/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F,UOSMO,Osmosis,osmosis,False,0.1305617436823006,1337295,0.01376991659124744,False
+osmosis,Osmosis,osmo,IBC/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E,UOSMO,Osmosis,osmosis,False,0.03159415402655397,134072,0.0013805183278347163,False
+osmosis,Osmosis,osmo,IBC/4E5444C35610CC76FC94E7F7886B93121175C28262DDFDDE6F84E82BF2425452,UOSMO,Osmosis,osmosis,False,0.054496710779405724,347301,0.0035761038529694847,False
+osmosis,Osmosis,osmo,IBC/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59,UOSMO,Osmosis,osmosis,False,0.14609029879973656,82390,0.0008483568905536001,False
+osmosis,Osmosis,osmo,IBC/D805F1DA50D31B96E4282C1D4181EDDFB1A44A598BFF5666F4B43E4B8BEA95A5,UOSMO,Osmosis,osmosis,False,0.01773558249583355,156756,0.0016140919132858374,False
+osmosis,Osmosis,osmo,IBC/7A08C6F11EF0F59EB841B9F788A87EC9F2361C7D9703157EC13D940DC53031FA,UOSMO,Osmosis,osmosis,False,3.0092889026936357e-05,62218,0.0006406489745899247,False
+osmosis,Osmosis,osmo,IBC/F3FF7A84A73B62921538642F9797C423D2B4C4ACB3C7FCFFCE7F12AA69909C4B,UOSMO,Osmosis,osmosis,False,0.09141092085590245,35125,0.00036167660857743905,False
+osmosis,Osmosis,osmo,IBC/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC,UOSMO,Osmosis,osmosis,False,0.007927064623849024,8301.43,8.547852096065509e-05,False
+osmosis,Osmosis,osmo,UION,UOSMO,Osmosis,osmosis,False,1050.202625029,1041.31,1.0722205531039802e-05,False
+osmosis,Osmosis,osmo,OSMO,ROWAN,Sifchain,sifchain,False,48.599039234038315,142683,0.0014691844424670388,False
+osmosis,Osmosis,osmo,OSMO,USDT,CoinEx,coinex,False,11.0792,163290,0.0016813714851134525,False
+osmosis,Osmosis,osmo,OSMO,BTC,CoinEx,coinex,False,0.00024458,15662.53,0.00016127461159124262,False
+medibloc,Medibloc,med,MED,KRW,Upbit,upbit,False,67.3,3752265,0.9765592874327361,False
+medibloc,Medibloc,med,MED,USDT,Gate.io,gate,False,0.05464,22051,0.005738962692448232,False
+medibloc,Medibloc,med,MED,BTC,Upbit,upbit,False,1.2e-06,31358,0.008161189610892551,False
+medibloc,Medibloc,med,MED,ETH,Gate.io,gate,False,1.4678e-05,638.42,0.00016615430420900638,False
+medibloc,Medibloc,med,MED,BTC,Bittrex,bittrex,False,1.18e-06,1365.24,0.0003553154698761065,False
+medibloc,Medibloc,med,MED,BTC,Upbit Indonesia ,upbit_indonesia,False,1.2e-06,31442,0.008183051334450017,False
+medibloc,Medibloc,med,MED,USDT,Bittrex,bittrex,False,0.05373,77.81,2.0250722738170466e-05,True
+certik,CertiK,ctk,CTK,USDT,Binance,binance,False,1.714,4028003,0.5484524271656944,False
+certik,CertiK,ctk,CTK,USDT,HitBTC,hitbtc,False,1.71147,1258945,0.17141780701705417,False
+certik,CertiK,ctk,CTK,USDT,MEXC Global,mxc,False,1.6926,374377,0.05097512944379912,False
+certik,CertiK,ctk,CTK,USDT,Gate.io,gate,False,1.699,142240,0.01936738210970756,False
+certik,CertiK,ctk,CTK,BUSD,Binance,binance,False,1.706,382219,0.052042895265679935,False
+certik,CertiK,ctk,CTK,BTC,Binance,binance,False,3.724e-05,302484,0.04118618679747456,False
+certik,CertiK,ctk,CTK,KRW,Bithumb,bithumb,False,2087.0,174466,0.02375527057896681,False
+certik,CertiK,ctk,CTK,USDT,Hoo.com,hoo,False,1.696,82729,0.011264371165312126,False
+certik,CertiK,ctk,CTK,BNB,Binance,binance,False,0.003373,169413,0.023067254677670745,False
+certik,CertiK,ctk,CTK,USDT,CoinEx,coinex,False,1.7037,10494.21,0.0014288904317316799,False
+certik,CertiK,ctk,CTK,USDT,Hotbit,hotbit,False,1.7139,297510,0.04050892752713088,False
+certik,CertiK,ctk,CTK,UST,Bitfinex,bitfinex,False,1.7069,17632.88,0.0024008909213626283,False
+certik,CertiK,ctk,CTK,USDT,Bitrue,bitrue,False,1.719,826213,0.11249706745646662,False
+certik,CertiK,ctk,CTK,BTC,Hotbit,hotbit,False,3.69e-05,290621,0.039570922076106026,False
+certik,CertiK,ctk,CTK,USD,Bitfinex,bitfinex,False,1.7716,12415.54,0.001690498504487898,False
+certik,CertiK,ctk,CTK,USD,Liquid,quoine,False,1.705,24378,0.0033193056880655995,False
+certik,CertiK,ctk,CTK,BTC,Liquid,quoine,False,3.803e-05,21814,0.0029701917417123223,False
+certik,CertiK,ctk,CTK,BTC,Bithumb,bithumb,False,3.776e-05,867.0,0.00011805062070526191,False
+certik,CertiK,ctk,CTK,USDT,Nominex,nominex,False,1.728,7792.23,0.0010609891443808107,False
+certik,CertiK,ctk,CTK,BTC,HitBTC,hitbtc,False,3.8027e-05,274.78,3.74140133303251e-05,False
+certik,CertiK,ctk,CTK,BUSD,Nominex,nominex,False,1.729,1652.47,0.00022500012594789406,False
+certik,CertiK,ctk,CTK,BTC,Nominex,nominex,False,3.708e-05,383.76,5.225271764919413e-05,False
+certik,CertiK,ctk,CTK,BNB,Nominex,nominex,False,0.003404,558.47,7.60412112402164e-05,False
+certik,CertiK,ctk,BUSD,CTK,OpenOcean,openocean_finance,False,0.63103065,131.3,1.7877792962630784e-05,True
+e-money,e-Money,ngm,IBC/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59,UOSMO,Osmosis,osmosis,False,0.14609029879973656,82390,0.17456174176133835,False
+e-money,e-Money,ngm,IBC/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59,IBC/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F,Osmosis,osmosis,False,1.124564514,94993,0.20126403125542924,False
+e-money,e-Money,ngm,IBC/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59,IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2,Osmosis,osmosis,False,0.030767488407083432,23269,0.04930060892152667,False
+e-money,e-Money,ngm,NGM,USDT,KuCoin,kucoin,False,1.2179,55064,0.11666546605590891,False
+e-money,e-Money,ngm,NGM,USDT,AscendEX (BitMax),bitmax,False,1.0706,168960,0.3579797534651745,False
+e-money,e-Money,ngm,USDT,0XED0D5747A9AB03A75FBFEC3228CD55848245B75D,Uniswap (v3),uniswap,False,0.776820656865394,18934.14,0.04011623324618312,False
+e-money,e-Money,ngm,NGM,ROWAN,Sifchain,sifchain,False,7.092728334905478,27172,0.057569992075968995,False
+verus-coin,Verus Coin,vrsc,VRSC,BTC,STEX,stocks_exchange,False,1.495e-05,843.85,0.9665208228341046,False
+verus-coin,Verus Coin,vrsc,VRSC,SAFE,SafeTrade,safe_trade,False,0.9031,22.88,0.026206075044669444,False
+verus-coin,Verus Coin,vrsc,VRSC,BTC,Graviex,graviex,False,1.4658e-05,5.67,0.006494250240527786,False
+verus-coin,Verus Coin,vrsc,VRSC,LTC,SafeTrade,safe_trade,False,0.00472,330.88,0.3789801621844504,True
+verus-coin,Verus Coin,vrsc,VRSC,BTC,SafeTrade,safe_trade,False,1.543e-05,5714.42,6.545127594263985,True
+verus-coin,Verus Coin,vrsc,VRSC,ETH,SafeTrade,safe_trade,False,0.00021,1083.24,1.240711045952261,True
+verus-coin,Verus Coin,vrsc,VRSC,KMD,SafeTrade,safe_trade,False,1.10994,1.63,0.0018669537728501395,True
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,Huobi Global,huobi,False,0.04185,81671,0.20284984774649917,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,Gate.io,gate,False,0.04231,36507,0.09067403841855058,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,MEXC Global,mxc,False,0.0418,170428,0.4232995047414671,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,BKEX,bkex,False,0.0417,43543,0.10814966047220939,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,CoinTiger,cointiger,False,0.042014,1110.89,0.002759166256848924,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,AEX,aex,False,0.04217,94902,0.23571226323711308,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,Hotbit,hotbit,False,0.042405,61975,0.15393002796695626,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,BTC,Huobi Global,huobi,False,9.262e-07,3242.52,0.008053589258304397,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,Hoo.com,hoo,False,0.042318,34732,0.08626539300279669,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,BigONE,bigone,False,0.0426,60443,0.15012493231797883,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,Bitforex,bitforex,False,0.041806,24740,0.06144782399197254,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,CoinEx,coinex,False,0.041376,7964.8,0.01978252338444878,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,0X9469D013805BFFB7D3DEBE5E7839237E535EC483,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Uniswap (v2),uniswap_v2,False,1.13156806320313e-05,8509.47,0.021135344172391695,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,BiONE,bione,False,0.041959,38426,0.0954403429553572,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,USDT,Poloniex,poloniex,False,0.04128,1143.17,0.0028393415098182397,False
+darwinia-network-native-token,Darwinia Network Native Token,ring,RING,ETH,Gate.io,gate,False,1.087e-05,304.56,0.0007564490410264817,True
+bifrost,Bifrost,bfc,BFC,BTC,Upbit,upbit,False,4.41e-06,1477725,0.442509080161453,False
+bifrost,Bifrost,bfc,BFC,KRW,Bithumb,bithumb,False,247.9,363828,0.10894936041346065,False
+bifrost,Bifrost,bfc,BFC,USDT,Gate.io,gate,False,0.20477,1767.53,0.0005292920363787396,False
+bifrost,Bifrost,bfc,0X0C7D5AE016F806603CB1782BEA29AC69471CAB9C,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Sushiswap,sushiswap,False,5.39727977189852e-05,42166,0.01262673222290198,False
+bifrost,Bifrost,bfc,0X0C7D5AE016F806603CB1782BEA29AC69471CAB9C,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Uniswap (v2),uniswap_v2,False,5.40318269076182e-05,1220.68,0.00036553620191272565,False
+bifrost,Bifrost,bfc,BFC,BTC,Bithumb,bithumb,False,4.45e-06,106.3,3.1831846399812184e-05,False
+bifrost,Bifrost,bfc,BFC,ETH,Gate.io,gate,False,5.411e-05,10.02,3.000518353020866e-06,False
+bifrost,Bifrost,bfc,BFC,ETH,Bilaxy,bilaxy,False,5.4683e-05,5418.65,0.0016226306161273968,False
+bifrost,Bifrost,bfc,BFC,BTC,Upbit Indonesia ,upbit_indonesia,False,4.41e-06,1439107,0.43094480693221554,False
+bifrost,Bifrost,bfc,BFC,BTC,Bittrex,bittrex,False,4.27e-06,33.82,1.0127498073769032e-05,True
+kardiachain,KardiaChain,kai,0XFB62AE373ACA027177D1C18EE0862817F9080D08,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,18.5328755174805,71670,0.036756070367335046,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X551A5DCAC57C66AA010940C2DCFF5DA9C53AA53B,Kaidex,kaidex,False,0.071311414723026,306412,0.15714386819304962,False
+kardiachain,KardiaChain,kai,KAI,USDT,KuCoin,kucoin,False,0.071353,610336,0.31301176173737694,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X92364EC610EFA050D296F1EEB131F2139FB8810E,Kaidex,kaidex,False,0.0715777643820825,162100,0.083133235754779,False
+kardiachain,KardiaChain,kai,KAI,USDT,Gate.io,gate,False,0.07105,234429,0.12022727529153046,False
+kardiachain,KardiaChain,kai,0XD675FF2B0FF139E14F86D87B7A6049CA7C66D76E,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,0.169188878593838,10283.59,0.005273955039330585,False
+kardiachain,KardiaChain,kai,KAI,ETH,KuCoin,kucoin,False,1.891e-05,22205,0.011387868599228057,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X5C5058DE24497359FF64F7318F5C2B5581FF6B05,Kaidex,kaidex,False,0.217976706357369,1714.44,0.0008792532060914455,False
+kardiachain,KardiaChain,kai,0X39AE8EEFB05138F418BB27659C21632DC1DDAB10,WBNB,PancakeSwap (v2),pancakeswap_new,False,0.000137658653486549,48701,0.024976383186264606,False
+kardiachain,KardiaChain,kai,KAI,BTC,KuCoin,kucoin,False,1.5306e-06,57913,0.029700771636437487,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X1540020A94AA8BC189AA97639DA213A4CA49D9A7,Kaidex,kaidex,False,1.92445691971262e-05,4103.58,0.0021045273508858483,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X5FFD7A138422CBBCFB53908AD51F656D7C6C640F,Kaidex,kaidex,False,0.0995181345087388,11363.47,0.005827773167812206,False
+kardiachain,KardiaChain,kai,KAI,IDR,Indodax,indodax,False,1040.0,118395,0.06071905889689735,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X2EDDBA8B949048861D2272068A94792275A51658,Kaidex,kaidex,False,3.77292416251973,11608.14,0.005953252555795684,False
+kardiachain,KardiaChain,kai,KAI,USDT,Bibox,bibox,False,0.071597,109997,0.05641213160591256,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X6CD689DEFCA80F9F2CBED9D0C6F3B2CF4ABC4598,Kaidex,kaidex,False,4.15789247623571,2900.0,0.0014872694860509508,False
+kardiachain,KardiaChain,kai,KAI,USDT,Hotbit,hotbit,False,0.07151999,4261.46,0.00218549635311265,False
+kardiachain,KardiaChain,kai,KAI,USDT,CoinEx,coinex,False,0.071743,12218.76,0.006266409967372385,False
+kardiachain,KardiaChain,kai,0XB697231730C004110A86F51BFF4B8DD085C0CB28,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,3.81766954928479,924.36,0.00047405945590553683,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X32A6BD9800276BE19050BD97459A7A36B26BD899,Kaidex,kaidex,False,4.93507474534654,393.86,0.00020199171026759569,False
+kardiachain,KardiaChain,kai,0XF631BDC21A77AFAC69B9B3E966E85D7FBCF00B1F,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,0.274408617360383,497.97,0.0002553846848168248,False
+kardiachain,KardiaChain,kai,KAI,USDT,MEXC Global,mxc,False,0.066801,64946,0.0333076565658845,False
+kardiachain,KardiaChain,kai,KAI,USDT,Hoo.com,hoo,False,0.07179,47641,0.024432760546535637,False
+kardiachain,KardiaChain,kai,KAI,BTC,Bittrex,bittrex,False,1.43e-06,525.9,0.0002697086285221362,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X6EF238E9E8CD2A96740897761C18894FC086B9D0,Kaidex,kaidex,False,0.0563003232698538,53941,0.0276637252920946,False
+kardiachain,KardiaChain,kai,0XEFF34B63F55200A9D635B8ABBBFCC719B4977864,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,0.000586216187247969,19907.26,0.010209469085821602,False
+kardiachain,KardiaChain,kai,0XFF706EC9AF6C5C89059479C24068BCD8AAE8E1FA,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,1.77004543233595,164.71,8.447177829222487e-05,False
+kardiachain,KardiaChain,kai,0XFF40318CDA551BF168C7CC8B9DC004FAA07345AC,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,0.372793923402254,678.23,0.0003478313046635643,False
+kardiachain,KardiaChain,kai,0XBFB1398F4755E861620D25A1DF6BB8FF25252377,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,0.425275683907708,169.52,8.693859423288179e-05,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0XA43B455F935A7F4184B5B8AA345E22DBA3BBB286,Kaidex,kaidex,False,5.88224559801664,786.33,0.00040327055688498074,False
+kardiachain,KardiaChain,kai,0XD8347E9078CA7F41AD017FD74B9B6396E6068D9B,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,0.00344763844718665,2011.42,0.0010315598584940012,False
+kardiachain,KardiaChain,kai,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,0XD9EC3FF1F8BE459BB9369B4E79E9EBCF7141C093,Uniswap (v2),uniswap_v2,False,73683.8198018355,2831.88,0.001452334038675161,False
+kardiachain,KardiaChain,kai,KAI,USDT,Bittrex,bittrex,False,0.06634,465.19,0.00023857341110897993,False
+kardiachain,KardiaChain,kai,KAI,INR,BitBNS,bitbns,False,6.44,27.61,1.415983121029888e-05,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X7664E4BF5611352088DC3A58E4BCE2C92BADF43C,Kaidex,kaidex,False,0.374165691315253,34.99,1.7944675626525093e-05,False
+kardiachain,KardiaChain,kai,KAI,KRW,Coinone,coinone,False,87.7,2009.71,0.001030682882348778,False
+kardiachain,KardiaChain,kai,KAI,BTC,CoinEx,coinex,False,1.5564e-06,7692.61,0.003945166938307036,False
+kardiachain,KardiaChain,kai,KAI,BTC,Hotbit,hotbit,False,1.3611e-06,2314.16,0.001186820535806782,False
+kardiachain,KardiaChain,kai,KAI,ETH,Hotbit,hotbit,False,1.63409e-05,2398.22,0.001229930836840383,False
+kardiachain,KardiaChain,kai,KAI,VNDC,Nami.Exchange,nami_exchange,False,1685.35,113.36,5.813685135818475e-05,False
+kardiachain,KardiaChain,kai,0XF0051FD4758147F1749D1696C9266D047B4C43FA,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,Kaidex,kaidex,False,76.4687035605064,60296,0.03092289687273384,False
+kardiachain,KardiaChain,kai,LUA,KAI,Luaswap,luaswap,False,2.0818749933243326,551.63,0.0002829042988242365,False
+kardiachain,KardiaChain,kai,0XAF984E23EAA3E7967F3C5E007FBE397D8566D23D,0X72B7181BD4A0B67CA7DF2C7778D8F70455DC735B,Kaidex,kaidex,False,6.80242444982763,701.13,0.00035957560508789765,False
+kardiachain,KardiaChain,kai,0X39AE8EEFB05138F418BB27659C21632DC1DDAB10,0XD675FF2B0FF139E14F86D87B7A6049CA7C66D76E,PancakeSwap (v2),pancakeswap_new,False,43.2056179212882,90.92,4.662846264543188e-05,True
+kardiachain,KardiaChain,kai,KAI,ETH,ViteX,vitex,False,2.02e-05,45.6,2.3386030539283917e-05,True
+kardiachain,KardiaChain,kai,KAI,USDT,Coinstore,coinstore,False,0.13989,0.0,0.0,True
+wanchain,Wanchain,wan,WAN,USDT,Binance,binance,False,0.6845,1053945,0.39009196139146474,False
+wanchain,Wanchain,wan,WAN,BTC,Binance,binance,False,1.51e-05,344123,0.12736871091936963,False
+wanchain,Wanchain,wan,WAN,ETH,Binance,binance,False,0.0001829,124077,0.04592406652488391,False
+wanchain,Wanchain,wan,WAN,BTC,Bitrue,bitrue,False,1.499e-05,280979,0.10399750387336376,False
+wanchain,Wanchain,wan,WAN,BTC,KuCoin,kucoin,False,1.491e-05,112620,0.04168353822249431,False
+wanchain,Wanchain,wan,WAN,ETH,KuCoin,kucoin,False,0.0001828,62355,0.023079177995592545,False
+wanchain,Wanchain,wan,WAN,USDT,Bitrue,bitrue,False,0.688,86134,0.03188039319176278,False
+wanchain,Wanchain,wan,WAN,BTC,Huobi Global,huobi,False,1.492e-05,186970,0.0692023720605555,False
+wanchain,Wanchain,wan,WAN,XRP,Bitrue,bitrue,False,0.839,64524,0.023881980290074788,False
+wanchain,Wanchain,wan,WAN,USDT,BKEX,bkex,False,0.6866,212420,0.07862206703269616,False
+wanchain,Wanchain,wan,WAN,USDT,CoinEx,coinex,False,0.6804,12935.01,0.004787577550553597,False
+wanchain,Wanchain,wan,WAN,ETH,Huobi Global,huobi,False,0.000183,20334,0.007526132713693831,False
+wanchain,Wanchain,wan,WAN,USDT,TokoCrypto,toko_crypto,False,0.6849,1776.41,0.0006574947090554175,False
+wanchain,Wanchain,wan,WAN,USDT,Nominex,nominex,False,0.6929,1962.03,0.0007261974116380793,False
+wanchain,Wanchain,wan,WAN,BTC,Nominex,nominex,False,1.498e-05,2277.83,0.0008430830569112431,False
+wanchain,Wanchain,wan,WAN,ETH,Nominex,nominex,False,0.0001834,285.46,0.00010565603641443103,False
+wanchain,Wanchain,wan,WAN,ETH,TokoCrypto,toko_crypto,False,0.0001831,28.46,1.0533772845073593e-05,False
+wanchain,Wanchain,wan,WAN,ETH,DragonEx,dragonex,False,0.00018489,55155,0.020414274113493815,False
+wanchain,Wanchain,wan,WAN,USDT,AscendEX (BitMax),bitmax,False,0.69251,75867,0.028080314280997828,False
+wanchain,Wanchain,wan,WAN,BTC,CoinEx,coinex,False,1.48882e-05,7285.73,0.002696634744572664,False
+wanchain,Wanchain,wan,WAN,THB,Bitkub,bitkub,False,23.25,194319,0.0719224246479921,False
+wanchain,Wanchain,wan,WAN,INR,BitBNS,bitbns,False,55.0,88.93,3.291526419931112e-05,False
+wanchain,Wanchain,wan,0X41562AE242D194247389152ACAA7A9397136B09F,0X98878B06940AE243284CA214F92BB71A2B032B8A,Huckleberry,huckleberry,False,0.00369392445254883,9561.31,0.0035388850190207514,True
+wanchain,Wanchain,wan,WAN,BTC,TokoCrypto,toko_crypto,False,1.518e-05,32.44,1.20068724910115e-05,True
+wanchain,Wanchain,wan,0X41562AE242D194247389152ACAA7A9397136B09F,0X9A92B5EBF1F6F6F7D93696FCD44E5CF75035A756,Huckleberry,huckleberry,False,1.24203303801291,37.55,1.3898213996223238e-05,True
+whitecoin,Whitecoin,xwc,XWC,ETH,XT.COM,xt,False,0.0002166,1075803,0.07518752273598511,False
+whitecoin,Whitecoin,xwc,XWC2,USDT,LBank,lbank,False,0.8101,1269225,0.08870572358004272,False
+whitecoin,Whitecoin,xwc,XWC,BTC,XT.COM,xt,False,1.77064e-05,1086607,0.07594261079173471,False
+whitecoin,Whitecoin,xwc,NXWC,USDT,ZB,zb,False,0.81041,2750415,0.19222561225976734,False
+whitecoin,Whitecoin,xwc,XWC,USDT,ZB,zb,False,0.81021,2746152,0.19192767257246074,False
+whitecoin,Whitecoin,xwc,NXWC,QC,ZB,zb,False,5.5273,2294190,0.1603401949852061,False
+whitecoin,Whitecoin,xwc,XWC,QC,ZB,zb,False,5.5256,2293681,0.16030462114029898,False
+whitecoin,Whitecoin,xwc,XWC2,ETH,LBank,lbank,False,0.00021575,574367,0.04014232333549875,False
+whitecoin,Whitecoin,xwc,XWC2,BTC,LBank,lbank,False,1.759e-05,172145,0.012031158215199397,False
+whitecoin,Whitecoin,xwc,XWC,ETH,MEXC Global,mxc,False,0.00021582,39777,0.002780001628429443,False
+whitecoin,Whitecoin,xwc,XWC,BTC,MEXC Global,mxc,False,1.77091e-05,39648,0.0027709858602702705,False
+whitecoin,Whitecoin,xwc,XWC,BTC,Bittrex,bittrex,False,1.756e-05,17509.92,0.0012237626295012007,False
+whitecoin,Whitecoin,xwc,XWC,ETH,BW.com,bw,False,0.000216,4200.66,0.0002935827649264254,False
+whitecoin,Whitecoin,xwc,XWC,USDT,BW.com,bw,False,0.81103,4114.6,0.0002875680594397714,False
+whitecoin,Whitecoin,xwc,XWC,BTC,BW.com,bw,False,1.768e-05,4254.38,0.00029733723830247763,False
+whitecoin,Whitecoin,xwc,XWC,USDT,Bittrex,bittrex,False,0.81033,13329.69,0.0009316077106483561,False
+whitecoin,Whitecoin,xwc,XWC,USDT,ZBG,zbg,False,0.80907,3561.93,0.00024894213239690484,False
+whitecoin,Whitecoin,xwc,XWC,USDT,XT.COM,xt,False,0.81019,2320135,0.16215348262001017,False
+whitecoin,Whitecoin,xwc,XWC,USDT,MEXC Global,mxc,False,0.81015,32682,0.002284134379674964,False
+icon,ICON,icx,ICX,USDT,Binance,binance,False,1.199,12646689,0.21798971856812863,False
+icon,ICON,icx,ICX,KRW,Upbit,upbit,False,1475.0,9441424,0.16274088503657955,False
+icon,ICON,icx,ICX,USDT,Crypto.com Exchange,crypto_com,False,1.2043,1362767,0.023489879035052806,False
+icon,ICON,icx,ICX,BTC,Crypto.com Exchange,crypto_com,False,2.616e-05,599496,0.010333452836763743,False
+icon,ICON,icx,ICX,EUR,Bitvavo,bitvavo,False,1.0614,1300571,0.022417812778338236,False
+icon,ICON,icx,ICX,USDT,OKEx,okex,False,1.2031,9132010,0.1574075467390189,False
+icon,ICON,icx,ICX,BTC,Binance,binance,False,2.614e-05,1845402,0.03180901045523154,False
+icon,ICON,icx,ICX,USDT,Gate.io,gate,False,1.1869,103009,0.0017755558723697848,False
+icon,ICON,icx,ICX,USD,Kraken,kraken,False,1.2053,843306,0.014535981521077514,False
+icon,ICON,icx,ICX,EUR,Kraken,kraken,False,1.0589,282817,0.004874888457862958,False
+icon,ICON,icx,ICX,BUSD,Binance,binance,False,1.205,1003005,0.017288697276609383,False
+icon,ICON,icx,ICX,KRW,Bithumb,bithumb,False,1468.0,596962,0.010289774531173116,False
+icon,ICON,icx,ICX,USDT,Huobi Global,huobi,False,1.2037,396373,0.00683224191865593,False
+icon,ICON,icx,ICX,USD,Binance US,binance_us,False,1.1969,1011009,0.017426661427338425,False
+icon,ICON,icx,ICX,BTC,WhiteBIT,whitebit,False,2.626e-05,82265,0.001417993610660237,False
+icon,ICON,icx,ICX,USDT,WhiteBIT,whitebit,False,1.1908,370059,0.006378670121768877,False
+icon,ICON,icx,ICX,BTC,OKEx,okex,False,2.62e-05,518054,0.008929645195125246,False
+icon,ICON,icx,ICX,BTC,Hotbit,hotbit,False,2.615e-05,63154,0.0010885792072890853,False
+icon,ICON,icx,ICX,ETH,Binance,binance,False,0.0003199,195178,0.0033642637445018384,False
+icon,ICON,icx,ICX,ETH,Kraken,kraken,False,0.0003209,26469,0.0004562435164476486,False
+icon,ICON,icx,ICX,USDT,BKEX,bkex,False,1.204,1082809,0.01866427087540753,False
+icon,ICON,icx,ICX,CRO,Crypto.com Exchange,crypto_com,False,2.246,107611,0.0018548800879688659,False
+icon,ICON,icx,ICX,USDT,CoinEx,coinex,False,1.192774,17411.28,0.0003001164990386722,False
+icon,ICON,icx,ICX,USDT,LBank,lbank,False,1.2064,1215551,0.020952331507100973,False
+icon,ICON,icx,ICX,ETH,Huobi Global,huobi,False,0.00032,36135,0.0006228553956264226,False
+icon,ICON,icx,ICX,BTC,Huobi Global,huobi,False,2.613e-05,86013,0.0014825975133254598,False
+icon,ICON,icx,ICX,ETH,LATOKEN,latoken,False,0.0003197,2881.9,4.9675023236634494e-05,False
+icon,ICON,icx,ICX,ETH,Hotbit,hotbit,False,0.00032,23546,0.00040586005660494666,False
+icon,ICON,icx,ICX,IDR,Zipmex,zipmex,False,17302.0,3462.17,5.967707942648213e-05,False
+icon,ICON,icx,ICX,USDT,HitBTC,hitbtc,False,1.160659,1784795,0.030764333633238165,False
+icon,ICON,icx,ICX,USDT,Zipmex,zipmex,False,1.20881,2617.31,4.51143117621971e-05,False
+icon,ICON,icx,ICX,USDT,LATOKEN,latoken,False,1.1997,49807,0.0008585182977712809,False
+icon,ICON,icx,ICX,BTC,FMFW.io,bitcoin_com,False,2.5604e-05,422264,0.007278522506677618,False
+icon,ICON,icx,ICX,USDT,WazirX,wazirx,False,1.21,6972.58,0.00012018566692782295,False
+icon,ICON,icx,ICX,BTC,LATOKEN,latoken,False,2.612e-05,8177.02,0.00014094647923468026,False
+icon,ICON,icx,ICX,USDT,ProBit Global,probit,False,1.2003,22480,0.0003874855207882104,False
+icon,ICON,icx,ICX,USDC,CoinEx,coinex,False,1.1997,2608.47,4.4961937562741235e-05,False
+icon,ICON,icx,ICX,USDT,TokoCrypto,toko_crypto,False,1.202,14679.36,0.0002530266661226701,False
+icon,ICON,icx,ICX,USDT,Nominex,nominex,False,1.232,22511,0.0003880198647003293,False
+icon,ICON,icx,ICX,BTC,Nominex,nominex,False,2.648e-05,4712.47,8.122837598526769e-05,False
+icon,ICON,icx,ICX,BUSD,Nominex,nominex,False,1.229,2207.9,3.805735237314456e-05,False
+icon,ICON,icx,ICX,USDT,Hotbit,hotbit,False,1.19500001,3400.01,5.8605633698181635e-05,False
+icon,ICON,icx,ICX,BUSD,TokoCrypto,toko_crypto,False,1.2,120.02,2.0687727849199734e-06,False
+icon,ICON,icx,ICX,ETH,Nominex,nominex,False,0.0003199,171.23,2.9514744539397356e-06,False
+icon,ICON,icx,ICX,BTC,CoinTiger,cointiger,False,2.677e-05,861.31,1.48463146757159e-05,False
+icon,ICON,icx,ICX,BTC,Bittrex,bittrex,False,2.671e-05,20108,0.00034659959306091343,False
+icon,ICON,icx,ICX,USDT,FMFW.io,bitcoin_com,False,1.17773,1805127,0.031114794291986644,False
+icon,ICON,icx,ICX,USDT,DragonEx,dragonex,False,1.1688,10645462,0.18349476810947968,False
+icon,ICON,icx,ICX,BTC,WazirX,wazirx,False,2.68e-05,378.42,6.522787845937481e-06,False
+icon,ICON,icx,ICX,BTC,BiONE,bione,False,2.623e-05,34376,0.0005925356878387686,False
+icon,ICON,icx,ICX,BTC,Bitrue,bitrue,False,2.619e-05,245314,0.004228452982501737,False
+icon,ICON,icx,ICX,XRP,Bitrue,bitrue,False,1.4664,108338,0.0018674113145530755,False
+icon,ICON,icx,ICX,ETH,Bitrue,bitrue,False,0.00032,32726,0.0005640948021937265,False
+icon,ICON,icx,ICX,BTC,CoinEx,coinex,False,2.6e-05,3791.77,6.535836179533418e-05,False
+icon,ICON,icx,ICX,XBT,Kraken,kraken,False,2.622e-05,375929,0.006479850727063662,False
+icon,ICON,icx,SICX,ICX,Balanced Network,balanced_network,False,1.0707445359471532,647959,0.011168804740409608,False
+icon,ICON,icx,ICX,IDR,Upbit Indonesia ,upbit_indonesia,False,17100.0,1465.11,2.5253955131762225e-05,False
+icon,ICON,icx,ICX,BTC,HitBTC,hitbtc,False,2.5184e-05,410264,0.007071679701986403,False
+icon,ICON,icx,ICX,ETH,HitBTC,hitbtc,False,0.00031016,98737,0.001701919833899712,False
+icon,ICON,icx,ICX,BTC,TokoCrypto,toko_crypto,False,2.679e-05,12.1,2.0856649473030896e-07,False
+icon,ICON,icx,ICX,ETH,TokoCrypto,toko_crypto,False,0.0003261,162.0,2.7923778633314093e-06,False
+icon,ICON,icx,ICX,INR,BitBNS,bitbns,False,96.21,1685.55,2.9053657453939856e-05,False
+icon,ICON,icx,ICX,ETH,Gate.io,gate,False,0.0003116,471.57,8.12840511735304e-06,True
+icon,ICON,icx,ICX,QC,ZB,zb,False,8.3392,238.98,4.119274455425556e-06,True
+icon,ICON,icx,ICX,USDT,Velic,velic,False,2.2,48.07,8.285778017922274e-07,True
+quant-network,Quant,qnt,QNT,USD,Coinbase Exchange,gdax,False,179.35,4553935,0.1259259066718649,False
+quant-network,Quant,qnt,QNT,USDT,Binance,binance,False,180.0,4163426,0.11512750926642909,False
+quant-network,Quant,qnt,QNT,USDT,Crypto.com Exchange,crypto_com,False,180.26,554938,0.015345206024387999,False
+quant-network,Quant,qnt,QNT,USDC,Crypto.com Exchange,crypto_com,False,180.27,225053,0.006223190070614361,False
+quant-network,Quant,qnt,QNT,USDT,Gate.io,gate,False,180.31,154945,0.00428455601787731,False
+quant-network,Quant,qnt,QNT,USDT,KuCoin,kucoin,False,180.118,3830272,0.10591509856856922,False
+quant-network,Quant,qnt,QNT,BTC,Bittrex,bittrex,False,0.00392197,101232,0.002799278291017818,False
+quant-network,Quant,qnt,QNT,BTC,Binance,binance,False,0.003921,1046771,0.028945425714863013,False
+quant-network,Quant,qnt,0X4A220E6096B25EADB88358CB44068A3248254675,ETH,Uniswap (v3),uniswap,False,0.0484655202319989,1355841,0.03749186302129652,False
+quant-network,Quant,qnt,QNT,USDT,Bybit (spot),bybit_spot,False,180.1,541672,0.014978373147346723,False
+quant-network,Quant,qnt,QNT,BUSD,Binance,binance,False,180.6,657809,0.018189806121939107,False
+quant-network,Quant,qnt,QNT,EUR,Bitvavo,bitvavo,False,158.04,359150,0.009931254921556913,False
+quant-network,Quant,qnt,QNT,USDT,Hotbit,hotbit,False,179.802425,245325,0.006783753622806486,False
+quant-network,Quant,qnt,QNT,USD,Gemini,gemini,False,180.51,107970,0.0029855982009759146,False
+quant-network,Quant,qnt,QNT,BNT,Bancor Network,bancor,False,52.112590416429,130045,0.0035960185055655537,False
+quant-network,Quant,qnt,QNT,BNB,Binance,binance,False,0.3549,147365,0.004074953032201682,False
+quant-network,Quant,qnt,QNT,USDT,ZB,zb,False,179.6441,1409007,0.03896201504457229,False
+quant-network,Quant,qnt,0X4A220E6096B25EADB88358CB44068A3248254675,0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2,Uniswap (v2),uniswap_v2,False,0.0486172085252682,185087,0.0051180458851906,False
+quant-network,Quant,qnt,QNT,IDR,Indodax,indodax,False,2579200.0,10843.74,0.00029985227966889473,False
+quant-network,Quant,qnt,QNT,USDT,Bitrue,bitrue,False,180.5,172292,0.004764237151454499,False
+quant-network,Quant,qnt,QNT,ETH,Bittrex,bittrex,False,0.04802881,33994,0.0009400057909046517,False
+quant-network,Quant,qnt,QNT,BTC,Hotbit,hotbit,False,0.00392991,244253,0.0067541105620354735,False
+quant-network,Quant,qnt,QNT,USDT,BKEX,bkex,False,180.1,342748,0.009477705030916855,False
+quant-network,Quant,qnt,QNT,USDT,BitGlobal,bithumb_global,False,179.73,2221705,0.061434828666288736,False
+quant-network,Quant,qnt,QNT,QC,ZB,zb,False,1235.6859,2107645,0.058280829121940186,False
+quant-network,Quant,qnt,QNT,USDT,CoinEx,coinex,False,178.59,18358.49,0.0005076509652369578,False
+quant-network,Quant,qnt,QNT,USDT,WazirX,wazirx,False,180.5,1710.78,4.730667491215685e-05,False
+quant-network,Quant,qnt,QNT,USDC,CoinEx,coinex,False,179.57,16579.35,0.00045845399215847023,False
+quant-network,Quant,qnt,QNT,EUR,CoinMetro,coin_metro,False,159.50033230399683,85759,0.002371417209572043,False
+quant-network,Quant,qnt,QNT,USD,CoinMetro,coin_metro,False,180.16281274515444,11663.43,0.00032251843683623704,False
+quant-network,Quant,qnt,QNT,ETH,Hotbit,hotbit,False,0.04742391,242165,0.006696372958593428,False
+quant-network,Quant,qnt,QNT,BTC,BitGlobal,bithumb_global,False,0.0039225,135126,0.0037365188710296515,False
+quant-network,Quant,qnt,QNT,USDT,FMFW.io,bitcoin_com,False,180.458,4287.74,0.00011856505353572723,False
+quant-network,Quant,qnt,QNT,USDT,HitBTC,hitbtc,False,180.458,4298.66,0.00011886701456522298,False
+quant-network,Quant,qnt,QNT,BTC,FMFW.io,bitcoin_com,False,0.0039282,2012.65,5.565401703430745e-05,False
+quant-network,Quant,qnt,QNT,BTC,HitBTC,hitbtc,False,0.0039282,2012.55,5.5651251823414626e-05,False
+quant-network,Quant,qnt,QNT,USDT,Nominex,nominex,False,179.9,8859.96,0.0002449965790193439,False
+quant-network,Quant,qnt,QNT,BTC,Nominex,nominex,False,0.003942,2569.57,7.105402953859111e-05,False
+quant-network,Quant,qnt,QNT,BUSD,Nominex,nominex,False,182.3,3095.71,8.560291013006529e-05,False
+quant-network,Quant,qnt,QNT,SGD,Tokenize,tokenize,False,242.96,4484.64,0.00012400975378368647,False
+quant-network,Quant,qnt,QNT,USD,Tokenize,tokenize,False,179.19,100.35,2.7748891309431607e-06,False
+quant-network,Quant,qnt,QNT,USD,Bittrex,bittrex,False,182.686,56843,0.0015718288278047043,False
+quant-network,Quant,qnt,QNT,ETH,Gate.io,gate,False,0.04821,18195.17,0.0005031348228068068,False
+quant-network,Quant,qnt,QNT,BRL,NovaDAX,novadax,False,1037.47,328.52,9.084270825086668e-06,False
+quant-network,Quant,qnt,QNT,BTC,CoinEx,coinex,False,0.00392046,16731.63,0.000462664855306054,False
+quant-network,Quant,qnt,QNT,BTC,CoinMetro,coin_metro,False,0.00392582676198056,3703.02,0.00010239631240324009,False
+quant-network,Quant,qnt,QNT,USDT,AscendEX (BitMax),bitmax,False,180.34,58796,0.0016258333965414457,False
+quant-network,Quant,qnt,QNT,BTC,FatBTC,fatbtc,False,0.003938,6386215,0.17659231281879598,False
+quant-network,Quant,qnt,QNT,ETH,Bilaxy,bilaxy,False,0.049278,21470,0.0005936907786880883,False
+quant-network,Quant,qnt,QNT,ETH,FatBTC,fatbtc,False,0.047024,4900815,0.135517870216873,False
+quant-network,Quant,qnt,QNT,LCX,LCX Exchange,lcx,False,912.41265433,65.87,1.8214444150994121e-06,False
+quant-network,Quant,qnt,QNT,BTC,LCX Exchange,lcx,False,0.00364763,81.35,2.249499061307684e-06,False
+quant-network,Quant,qnt,QNT,BNB,Nominex,nominex,False,0.352,620.39,1.715509185795543e-05,True
+quant-network,Quant,qnt,0X4A220E6096B25EADB88358CB44068A3248254675,0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48,Uniswap (v2),uniswap_v2,False,205.86726298542,0.0,0.0,True
+quant-network,Quant,qnt,QNT,BTC,Bitrue,bitrue,False,0.003623,3166.53,8.756123248435921e-05,True
